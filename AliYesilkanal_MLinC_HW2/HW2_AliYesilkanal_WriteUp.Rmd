@@ -1,0 +1,124 @@
+---
+title: "MLiC_HW2"
+author: "Ali Yesilkanal"
+date: "November 9, 2017"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: 
+    fig_caption: yes
+---
+
+## **Part 1**
+### **Task:** Learn	a	model	that can	predict	drug	response	on	a	per	drug	basis	(by	Drug)	across	the	GDSC cell	lines 
+A quick look at the data provided revealed that even though the GDSC data base has over 1000 cell lines and 265 drugs, not all of the cell lines have expression profile. Similarly, not all cell lines with expression profile have drug IC50 information. Therefore, I first wanted to identify drug-cell line pairs that have expression information available for this analysis. 
+
+I first filtered the dose response data for the drug-cell line pairs that have AUC values higher than 0.9. After this filtering there was no change in the total number of drugs that have been tested, but each drug had fewer paired cell lines because of the AUC filter than they had had before the filter was applied. 
+
+``` {r fig.cap = "Figure 1: Ranking of AUC for each drug - cell line pair", echo = FALSE}
+plot(dose_response_AUCorder$AUC, main = "AUC distribution across drug-cell line pairs", xlab = "index of drug - cell line pairs", ylab = "AUC")
+```
+
+Then I applied a second filter, where I only selected the drug-cell line pairs where there is expression data for the cell line. The following table shows a few of the drugs and the number of cell lines that they have been tested on as an example (after the two filtering steps).
+
+``` {r echo = FALSE}
+table[1:10,]
+
+```
+
+For this task, I will use gene expression data as the feature matrix, but each feature matrix has ~18,000 features (genes) in this case. In order to reduce the number of features, I looked for genes the expression value of which correlated with the outcome (IC50) of each drug across multiple cell lines, based on spearman correlation. I created a matrix for each individual drug where the first column is the LN_IC50 values across different cell lines and the rest of the columns are the gene expression matrix. Then I selected top 30 genes that correlated highly with the LN_IC50 outcome. The correlations can be negative or positive; only the absolute value of the spearman coefficient has been considered in this feature selection. Each drug has a different set of 30 genes (features). For example, the following matrix shows 5 of rows of the feature matrix for Drug 1.
+
+``` {r echo = FALSE}
+a <- subset(geneNmut_1, select = -c(COSMIC_class, LN_IC50_z)) [1:5,1:32]
+rownames(a) <- NULL
+print(a)
+
+```
+
+In order to train a model for each drug, I used the Random Forest method with 5 fold cross validation. I used the *ranger* function in the *caret* package. First, I train the models as regression. The following shows the top 10 and bottom 10 models trained for each drug ranked by their r2 scores. The trained models are named "ranger_" followed by the DRUG_ID.
+
+``` {r echo = FALSE}
+b <- read.delim("rf_regres_ranked.txt")
+b[1:10,]
+b[256:265,]
+```
+
+It looks the drug response models with the highest r2 score are the ones that were trained on fewer cell lines. But the trained model r2 values are rather random when the model was trained on at least ~45 cell lines. The full list of r2 values of all models and the corresponding number of cell lines the model is trained on can be found in "rf_regres_ranked2.txt" file.
+
+``` {r fig.cap = "Figure 2: Cell line with the highest r2 score are those which were trained on fewer cell lines", echo = FALSE}
+plot(x = rank(-c$r2_scores), y = c$Num_CL_per_Drug, main = "Correlation between r2 score of the model \n and the number of cell lines (per drug)", xlab = "ranking (highest to lowest r2 score)", ylab = "# of cell lines per drug")
+```
+
+We can also approach the drug response problem as a classification problem, where the cell lines are grouped into "sensitive", "intermediate", and "resistant" based on the LN_IC50 values for each drug. This is achieved by z-transforming the LN_IC50 values and ranking the cell lines based on their z-scores. I initially set a threshold of -2/2 for the z-score to assign "sensitve" and "resistant" labels to the cell lines per drug. But this cut-off was too stringent, and most drugs did not have any sensitive or resistant cell lines due to skewed distribution. This resulted in very unbalanced classes. So I lowered the cut-off of the z-score to -1/1. Cell lines with z-score lower than -1 were deemed "sensitive" to the drug, and those higher than 1 were deemed "resistant". 
+
+After this process, I retrained the random forest models with these three classes as the outcome. I used the same initial 30 features for each drug (I essentially just turned the continuous LN_IC50 distribution into 3 classes within the same feature matrix). The following shows the top 10 and bottom 10 models trained for each drug ranked by their F1 scores. The trained models are named "ranger2_" followed by the DRUG_ID.
+
+``` {r echo = FALSE}
+d <- read.delim("rf_class_ranked.txt")
+d[1:10,]
+d[256:265,]
+```
+
+Classification approach seems more robust to the effect of the number of cell lines the models are trained on.
+
+``` {r fig.cap = "Figure 3: There is no obvious pattern between F1 score distribution and the number of cell lines on which the models were trained", echo = FALSE}
+plot(x = rank(-e$F1_scores), y = e$Num_CL_per_Drug, main = "Correlation between F1 score of the model \n and the number of cell lines (per drug)", xlab = "ranking (highest to lowest F1 score)", ylab = "# of cell lines per drug")
+```
+
+## **Part 2**
+### **Task:**Try to improve	the	results of “by Drug” prediction by adding additional assay types to your model.
+The efficacy of the drugs can vary based on the mutational landscape of the cell lines. Therefore, I wanted to incorporate mutational information to the feature matrices. I used the 'WES_variants.tsv' file to access the list of mutations in each cell line. I wanted to look at most frequently mutated genes across all cell lines (regardless of the type of the mutation). 
+
+``` {r fig.cap = "Figure 4: There are 403 genes that are mutated more than 100 times in total across all cell lines", echo = FALSE}
+plot(mut_counts_sorted, main = "Ranking of mutated genes by frequency across cell lines", ylab = "Mutation count")
+```
+
+A cut off of 100 counts for mutation frequency results in 403 genes that are most frequently mutated across all cell lines. I used these genes and made a feature matrix for each cell line where the gene took a value of "1" if it is mutated, and "0" if it is not. I limited the number of genes I used for the feature matrix to the top 50. I added these mutational gene features to the original 30 features and made a matrix of 80 features per drug. The following is an example of the new feature matrix for Drug 1 with mutational information.
+
+``` {r echo = FALSE}
+subMat2_1[1:3,1:84]
+```
+
+After making the new feature matrices for each drug, I trained a new random forest model for each drug either as a regression model (described as "ranger3_" series), or as a three-class model (described as "ranger4_" series). Unfortunately, side by side comparison of the r2 and F1 scores demonstrated no improvement on the model upon addition of the new features. 
+
+``` {r echo = FALSE}
+regs[1:10,]
+clas[1:10,]
+```
+
+I also tried other regression models such as **boosted generalized linear model (glmboost)** and **k-nearest neighbors (knn)**, but random forest remained the best training method based on the r2 score. Below are two example comparisons of the three methods used to train Drug 1 and Drug 182 models.
+
+``` {r echo = FALSE}
+resamps_1 <- resamples(list(rf = ranger_1, glmboost = glmboost_1, knn = knn_1))
+summary(resamps_1)
+
+resamps_182 <- resamples(list(rf = ranger_182, glmboost = glmboost_182, knn = knn_182))
+summary(resamps_182)
+```
+
+Therefore, for the rest of the assingment (PART 3), I used the initial random forest regression models for each drug.
+
+## **Part 3**
+### **Task:**Develop	a	version	of	your	model	that	can	rank	order	the	drugs	for	a	given	cell line
+Using *predict()* function in the *caret* package, I predicted the LN_IC50 value of all drugs on all of the cell lines based on my models. Then I compared these predicted values to the experimental values side by side. To make a statistical comparisons between the two ranked lists of LN_IC50 values, I performed Spearman ranked correlation test for each drug. The files containing the  comparisons of the predicted vs experimental values for each drug are in the "compare" folder. This folder also has a file called "spearman_summary.txt" which has the rho statistic and the p-value for the overall correlation between predicted and experimental values per drug. 
+
+The following is an example of the predicted (ic50_pred) vs. experimental (LN_IC50) IC50 values for the commonly-used breast cancer cell line MDA-MB-231 (COSMIC_ID: 905960)
+
+``` {r echo = FALSE, warning = FALSE}
+setwd("~/Desktop/Ali_ML_HW2/compare")
+read.delim("compare_905960.txt")[1:15,]
+cor.test(mb231_compare$ic50_pred, mb231_compare$LN_IC50, method = "spearman")
+setwd("~/Desktop/Ali_ML_HW2")
+```
+
+Not all drugs have been tested on MDA-MB-231 cell line (or the drug-cell line pair did not pass the AUC tresholding we performed in Part 1), but since we have a predictive model for each drug, we can predict which other drugs 231 cells are predicted to be sensitive to.
+
+``` {r echo = FALSE, warning = FALSE}
+read.delim("predict_ranger_ranked_mb231.txt")[1:15,]
+```
+
+Table above demonstrates that MDA-MB-231 cells are predicted to be also sensitive to the drugs 1007, 104, 201, 1494, 140, and 1004. 
+
+
+
+

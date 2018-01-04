@@ -1,0 +1,10 @@
+Hi,
+
+Bob and I are grading the labs starting with Lab 1 and Lab 2.  Please make sure
+that you have a PDF or .docx file at the top level of each lab directory that explains what you did, and summarizes your results along the lines of the Lab’s instructions.
+
+Some of you have just ipython notebooks without enough comments to figure out what
+you were trying to do.  
+
+Others have provided nicely formatted reports (Thank you!).
+

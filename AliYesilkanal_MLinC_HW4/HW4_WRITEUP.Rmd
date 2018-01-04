@@ -1,0 +1,83 @@
+---
+title: "HW4_WRITEUP"
+author: "Ali Yesilkanal"
+date: "December 8, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(caret)
+library(randomForest)
+load("/media/rosner-lab/ubuntu_hdd1/Ali_MLinC_HWs/Ali_ML_HW4/HW4_envir.RData")
+```
+
+# HW-4 
+### GOAL: To develop a model "per cell line" that can predict growth inhibition response based on the dosage and the features of the drug (descriptors or fingerprints)
+For this exercise I decided to use the GDSC data and build my models with random forest. I tried use the NCI60 data and build a neural network in the beginning, but my computer crashed every time I tried to build an autoencoder, or even run a simple nnet with a single hidden layer. The code I wrote for the neural network analysis is included in the end of my "HW4_code.R" file, but commented out. 
+
+As I developed my models, regardless of what features I was using, I followed the same pre-processing and training protocol, outlined below:
+
+1. Merge the growth data set (all cell lines and drugs) with the drug features data set (descriptors, fingerprints, or both)
+2. Subset this merged data.frame for a single cell line (because we are training models "per cell line")
+3. Preprocess the data frame for dimensionality reduction by PCA 
+    + 3.a - Convert the drug features into "numeric" type because PCA input needs to be numeric
+    + 3.b - Remove samples (rows) that have missing data for the label/response (Growth or LN_IC50)
+    + 3.c - Remove features (columns) that are more than 50% missing and/or constant (no sd or variation)
+    + 3.d - Imputed remaining NA values using the _rfImpute()_ function in the **_caret_** package
+4. Perform principal component analysis using _prcomp()_ function, and extract PCs that can cumulitatively explain more than 90% of the variation
+5. Train a model for drug response using the extracted PCs with the __ranger__ method (random forest) in the **_caret_** package with 5-fold cross-validation.
+6. Report the overall R^2^ value for the model.
+
+I was first curious to see if the drug features could predict response without the dosage information. For this, I loaded the "GDCS_dose_response_fitted_cosmic_mimick.csv" file and extracted the LN_IC50 values as the labels (titled "GROWTH"). The "LOG_CONCENTRATION" column in this data set was a constant vector for whatever reason, so I ignored it. I merged the IC50 values with the drug descriptors alone, drug fingerprints alone, or with the descriptors and fingerprints together, and trained my model. None of these features had any predictive power towards the IC50 values of drugs. The following is examplary case for the MDA-MB-231 breast cancer cell line.
+
+```{r}
+## Using the descriptors only
+rf_MB231_des$finalModel$r.squared
+
+## Using the fingerprints only
+rf_MB231_fp$finalModel$r.squared
+
+## Using both the descriptors and the fingerprints
+rf_MB231_comb$finalModel$r.squared
+```
+
+Then I decided to incorporate the dose-response information to build model. For this, I loaded the "GDCS_dose_response.csv" file and merged it with the descriptor and fingerprint data alltogether. I followed the same pre-processing protocol described above. PCA analysis on the merged data frame showed that the first 150 principal componenets roughly explained 95% of the variation in this data. 
+
+```{r echo = FALSE}
+std_dev <- DR_MB231_pca$sdev
+pr_var <- std_dev^2
+prop_varex <- pr_var/sum(pr_var)
+## cumulative scree plot
+plot(cumsum(prop_varex[1:150]), xlab = "Principal Component",
+       ylab = "Cumulative Proportion of Variance Explained",
+       type = "b") 
+
+```
+
+So, I used the first 150 PCs to train my model for the MDA-MB-231 cell line. The R^2^ value drastically improved upon addition of individual dose-response pairs.
+
+```{r}
+## Model trained on multiple dosages of drugs, the drug descriptors, and the fingerprints alltogether.
+rf_DR_MB231$finalModel$r.squared
+```
+
+Taking descriptors and the fingerprints separately as the input data did not change the R^2^ value of the model at all:
+
+```{r}
+## Model trained on multiple dosages of drugs and the drug descriptors
+rf2_DR_MB231$finalModel$r.squared
+## Model trained on multiple dosages of drugs and the drug fingerprints
+rf3_DR_MB231$finalModel$r.squared
+```
+
+Finally I wanted to train a drug response model for a few more cell lines. The example run with the MDA-MB-231 cells showed that training the model on descriptors and the fingerprints individually or together does not change the accuracy of the model. Therefore, I decided to use just the fingerprint data for the drugs (along with the dose-response data) to train my models. Fingerprint data set is easy to manipulate since it had no missing data. The decriptors data set, on the other hand, had a lot of missing data and required me to impute the missing values every time, which can be very time consuming. 
+
+I trained models for a total of 5 cell lines (MDA-MB-231, Hs-578-T, MCF7, HeLa, and MIA-PaCa-2) and the R^2^ values for the models are ranked below:
+
+```{r}
+compare.table[order(compare.table$Rsquared, decreasing = TRUE),]
+```
+
+Looks like the model for the pancreatic cancer cell line MIA-PaCa-2 (designated as "rf_DR_panc" here) is the winner with R^2^ value of 0.846.
+

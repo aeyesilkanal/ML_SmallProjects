@@ -1,0 +1,3143 @@
+County, FIPS,Value (Dollars),Rank within US (of 3141 counties)
+United States,0,66011,N/A
+Puerto Rico,72001,22976,"3,138"
+"McCreary County, Kentucky",21147,24877,"3,137"
+"Holmes County, Mississippi",28051,26059,"3,136"
+"Issaquena County, Mississippi",28055,26250,"3,135"
+"Jefferson County, Mississippi",28063,26492,"3,134"
+"Brooks County, Texas",48047,26554,"3,133"
+"Greene County, Alabama",1063,27021,"3,132"
+"Shannon County, South Dakota",46113,27169,"3,131"
+"Clay County, Kentucky",21051,27306,"3,130"
+"Stewart County, Georgia",13259,27525,"3,129"
+"East Carroll Parish, Louisiana",22035,28076,"3,128"
+"Hudspeth County, Texas",48229,28202,"3,127"
+"Clay County, Georgia",13061,29044,"3,126"
+"Starr County, Texas",48427,29371,"3,125"
+"Leflore County, Mississippi",28083,29399,"3,124"
+"Humphreys County, Mississippi",28053,29712,"3,123"
+"Claiborne County, Mississippi",28021,29958,"3,122"
+"Bell County, Kentucky",21013,30113,"3,121"
+"Perry County, Alabama",1105,30347,"3,120"
+"Telfair County, Georgia",13271,30580,"3,119"
+"Willacy County, Texas",48489,30675,"3,118"
+"Wolfe County, Kentucky",21237,30761,"3,117"
+"Jenkins County, Georgia",13165,31004,"3,116"
+"Jefferson Davis County, Mississippi",28065,31295,"3,115"
+"Buffalo County, South Dakota",46017,31458,"3,114"
+"Sunflower County, Mississippi",28133,31573,"3,113"
+"Todd County, South Dakota",46121,31649,"3,112"
+"Phillips County, Arkansas",5107,31664,"3,111"
+"Mora County, New Mexico",35033,31719,"3,110"
+"Jackson County, Kentucky",21109,31781,"3,109"
+"Madison Parish, Louisiana",22065,31810,"3,108"
+"Hancock County, Georgia",13141,31926,"3,107"
+"McDowell County, West Virginia",54047,31984,"3,106"
+"Quitman County, Mississippi",28119,32500,"3,105"
+"Conecuh County, Alabama",1035,32690,"3,104"
+"Breathitt County, Kentucky",21025,32704,"3,103"
+"Wilcox County, Alabama",1131,32727,"3,102"
+"Wheeler County, Georgia",13309,32847,"3,101"
+"Lee County, Kentucky",21129,32848,"3,100"
+"Tunica County, Mississippi",28143,33206,"3,099"
+"Calhoun County, Georgia",13037,33229,"3,098"
+"Martin County, Kentucky",21159,33529,"3,097"
+"Tensas Parish, Louisiana",22107,33621,"3,096"
+"Knox County, Kentucky",21121,33642,"3,095"
+"Hall County, Texas",48191,34071,"3,094"
+"Dillon County, South Carolina",45033,34072,"3,093"
+"Buena Vista City, Virginia",51530,34087,"3,092"
+"Coahoma County, Mississippi",28027,34135,"3,091"
+"Mellette County, South Dakota",46095,34259,"3,090"
+"Zavala County, Texas",48507,34468,"3,089"
+"Clinton County, Kentucky",21053,34526,"3,088"
+"Mississippi County, Missouri",29133,34594,"3,087"
+"Harlan County, Kentucky",21095,34648,"3,086"
+"Chicot County, Arkansas",5017,34673,"3,085"
+"Alexander County, Illinois",17003,34759,"3,084"
+"Elliott County, Kentucky",21063,34781,"3,083"
+"Madison County, Idaho",16065,34783,"3,082"
+"Allendale County, South Carolina",45005,34885,"3,081"
+"Randolph County, Georgia",13243,35188,"3,080"
+"Luna County, New Mexico",35029,35245,"3,079"
+"Ziebach County, South Dakota",46137,35250,"3,078"
+"Candler County, Georgia",13043,35258,"3,077"
+"Lee County, Arkansas",5077,35313,"3,076"
+"Grundy County, Tennessee",47061,35316,"3,075"
+"Taylor County, Georgia",13269,35375,"3,074"
+"Hancock County, Tennessee",47067,35408,"3,073"
+"Washington County, Mississippi",28151,35500,"3,072"
+"Sumter County, Alabama",1119,35600,"3,071"
+"Bolivar County, Mississippi",28011,35700,"3,070"
+"McKinley County, New Mexico",35031,35868,"3,069"
+"Adams County, Mississippi",28001,35907,"3,068"
+"Chickasaw County, Mississippi",28017,36000,"3,067"
+"Magoffin County, Kentucky",21153,36073,"3,066"
+"Corson County, South Dakota",46031,36111,"3,065"
+"Monroe County, Arkansas",5095,36136,"3,064"
+"Tyrrell County, North Carolina",37177,36144,"3,063"
+"Zapata County, Texas",48505,36153,"3,062"
+"Ben Hill County, Georgia",13017,36250,"3,061"
+"Cumberland County, Kentucky",21057,36313,"3,060"
+"Wayne County, Kentucky",21231,36346,"3,059"
+"Terrell County, Georgia",13273,36351,"3,058"
+"Menominee County, Wisconsin",55078,36496,"3,057"
+"Scott County, Mississippi",28123,36521,"3,056"
+"Quitman County, Georgia",13239,36563,"3,055"
+"Jefferson County, Georgia",13163,36599,"3,054"
+"Lauderdale County, Tennessee",47097,36689,"3,053"
+"Yazoo County, Mississippi",28163,36694,"3,052"
+"Dallas County, Alabama",1047,36739,"3,051"
+"Dooly County, Georgia",13093,36779,"3,050"
+"Scotland County, North Carolina",37165,36870,"3,049"
+"Clark County, Idaho",16033,36875,"3,048"
+"Robeson County, North Carolina",37155,36903,"3,047"
+"Cameron County, Texas",48061,36941,"3,046"
+"Clay County, Tennessee",47027,36948,"3,045"
+"Northampton County, North Carolina",37131,36998,"3,043"
+"Pemiscot County, Missouri",29155,36998,"3,043"
+"Morehouse Parish, Louisiana",22067,37171,"3,042"
+"Sioux County, North Dakota",38085,37188,"3,041"
+"Fentress County, Tennessee",47049,37198,"3,040"
+"Desha County, Arkansas",5041,37218,"3,039"
+"Taliaferro County, Georgia",13265,37222,"3,038"
+"Scott County, Tennessee",47151,37285,"3,037"
+"Maverick County, Texas",48323,37396,"3,036"
+"Whitley County, Kentucky",21235,37412,"3,035"
+"Wilkinson County, Mississippi",28157,37417,"3,034"
+"St. Francis County, Arkansas",5123,37423,"3,033"
+"Hidalgo County, Texas",48215,37529,"3,032"
+"Dougherty County, Georgia",13095,37561,"3,031"
+"Apache County, Arizona",4001,37674,"3,030"
+"Douglas County, Missouri",29067,37691,"3,029"
+"Warren County, Georgia",13301,37708,"3,028"
+"Webster County, West Virginia",54101,37736,"3,027"
+"Wright County, Missouri",29229,37903,"3,026"
+"Montgomery County, Mississippi",28097,37973,"3,025"
+"Menifee County, Kentucky",21165,37974,"3,024"
+"Atkinson County, Georgia",13003,38011,"3,023"
+"Kemper County, Mississippi",28069,38085,"3,022"
+"Sabine County, Texas",48403,38097,"3,021"
+"Turner County, Georgia",13287,38177,"3,020"
+"Lewis County, Kentucky",21135,38182,"3,019"
+"Floyd County, Kentucky",21071,38272,"3,018"
+"Morgan County, Kentucky",21175,38328,"3,017"
+"Harmon County, Oklahoma",40057,38344,"3,016"
+"Macon County, Georgia",13193,38380,"3,015"
+"Petersburg City, Virginia",51730,38388,"3,014"
+"Bath County, Kentucky",21011,38420,"3,013"
+"Twiggs County, Georgia",13289,38449,"3,012"
+"Dunklin County, Missouri",29069,38469,"3,011"
+"Richmond County, North Carolina",37153,38506,"3,010"
+"Leslie County, Kentucky",21131,38507,"3,009"
+"Bronx County, New York",36005,38517,"3,008"
+"Buchanan County, Virginia",51027,38546,"3,006"
+"Colquitt County, Georgia",13071,38546,"3,006"
+"Marlboro County, South Carolina",45069,38591,"3,005"
+"Ozark County, Missouri",29153,38718,"3,004"
+"Russell County, Kentucky",21207,38750,"3,003"
+"Sharp County, Arkansas",5135,38789,"3,002"
+"Presidio County, Texas",48377,38884,"3,001"
+"Lake County, Michigan",26085,38903,"3,000"
+"Dolores County, Colorado",8033,38906,"2,999"
+"Lake County, Tennessee",47095,38954,"2,998"
+"Sanders County, Montana",30089,38978,"2,997"
+"Woodruff County, Arkansas",5147,38980,"2,996"
+"Lee County, South Carolina",45061,38984,"2,995"
+"Grady County, Georgia",13131,39040,"2,993"
+"Jackson County, Tennessee",47087,39040,"2,993"
+"Culberson County, Texas",48109,39091,"2,992"
+"Sumter County, Georgia",13261,39106,"2,991"
+"Glacier County, Montana",30035,39172,"2,990"
+"Stone County, Arkansas",5137,39189,"2,989"
+"Chesterfield County, South Carolina",45025,39201,"2,988"
+"Burke County, Georgia",13033,39203,"2,987"
+"Hickory County, Missouri",29085,39301,"2,986"
+"Monroe County, Kentucky",21171,39363,"2,985"
+"Wade Hampton Census Area, Alaska",2270,39375,"2,984"
+"Grayson County, Virginia",51077,39477,"2,983"
+"Marion County, South Carolina",45067,39510,"2,982"
+"Ripley County, Missouri",29181,39625,"2,981"
+"Glades County, Florida",12043,39779,"2,980"
+"Campbell County, Tennessee",47013,39793,"2,979"
+"Emanuel County, Georgia",13107,39802,"2,978"
+"Monroe County, Alabama",1099,39818,"2,977"
+"Evangeline Parish, Louisiana",22039,39834,"2,976"
+"Clay County, West Virginia",54015,39851,"2,975"
+"Sharkey County, Mississippi",28125,39857,"2,974"
+"Perry County, Tennessee",47135,39908,"2,973"
+"Jackson County, Arkansas",5067,39922,"2,972"
+"Clay County, Mississippi",28025,39927,"2,971"
+"Noxubee County, Mississippi",28103,40027,"2,970"
+"Lowndes County, Alabama",1085,40055,"2,969"
+"Guadalupe County, New Mexico",35019,40076,"2,968"
+"Butler County, Alabama",1013,40088,"2,967"
+"Bamberg County, South Carolina",45009,40109,"2,966"
+"Fulton County, Kentucky",21075,40110,"2,965"
+"DeSoto County, Florida",12027,40129,"2,964"
+"Clare County, Michigan",26035,40171,"2,963"
+"Marion County, Mississippi",28091,40178,"2,962"
+"Harney County, Oregon",41025,40182,"2,961"
+"Anson County, North Carolina",37007,40190,"2,959"
+"Calhoun County, Mississippi",28013,40190,"2,959"
+"Early County, Georgia",13099,40231,"2,958"
+"Williamsburg County, South Carolina",45089,40235,"2,957"
+"Putnam County, Florida",12107,40252,"2,956"
+"Winston County, Mississippi",28159,40258,"2,955"
+"Wayne County, Missouri",29223,40290,"2,954"
+"McNairy County, Tennessee",47109,40298,"2,953"
+"Adair County, Oklahoma",40001,40303,"2,952"
+"Cedar County, Missouri",29039,40339,"2,951"
+"Leake County, Mississippi",28079,40397,"2,950"
+"Estill County, Kentucky",21065,40443,"2,949"
+"Lafayette County, Arkansas",5073,40547,"2,948"
+"Covington County, Mississippi",28031,40554,"2,947"
+"Frio County, Texas",48163,40581,"2,946"
+"Jasper County, South Carolina",45053,40602,"2,945"
+"Escambia County, Alabama",1053,40605,"2,944"
+"Macon County, Alabama",1087,40630,"2,943"
+"Roosevelt County, New Mexico",35041,40643,"2,942"
+"Pike County, Mississippi",28113,40648,"2,941"
+"Knott County, Kentucky",21119,40651,"2,940"
+"Hampton County, South Carolina",45049,40678,"2,939"
+"Wheatland County, Montana",30107,40703,"2,938"
+"Costilla County, Colorado",8023,40732,"2,937"
+"Lamar County, Alabama",1075,40740,"2,936"
+"Chattooga County, Georgia",13055,40749,"2,935"
+"Simpson County, Mississippi",28127,40763,"2,934"
+"Searcy County, Arkansas",5129,40773,"2,933"
+"Crosby County, Texas",48107,40785,"2,932"
+"Quay County, New Mexico",35037,40801,"2,931"
+"Norton City, Virginia",51720,40813,"2,930"
+"Motley County, Texas",48345,40833,"2,929"
+"Clinch County, Georgia",13065,40863,"2,928"
+"Winn Parish, Louisiana",22127,40864,"2,927"
+"Jeff Davis County, Georgia",13161,40884,"2,926"
+"Cocke County, Tennessee",47029,40922,"2,925"
+"Benton County, Mississippi",28009,40924,"2,924"
+"Oregon County, Missouri",29149,40933,"2,923"
+"McCurtain County, Oklahoma",40089,40936,"2,922"
+"Bertie County, North Carolina",37015,40939,"2,921"
+"Attala County, Mississippi",28007,40941,"2,920"
+"Crisp County, Georgia",13081,40942,"2,919"
+"Jasper County, Mississippi",28061,40951,"2,918"
+"San Augustine County, Texas",48405,40975,"2,917"
+"Scott County, Arkansas",5127,41004,"2,916"
+"Lawrence County, Arkansas",5075,41045,"2,915"
+"Hamilton County, Florida",12047,41062,"2,914"
+"Washington County, Missouri",29221,41080,"2,913"
+"Poinsett County, Arkansas",5111,41095,"2,912"
+"Lincoln County, Mississippi",28085,41104,"2,911"
+"Cibola County, New Mexico",35006,41159,"2,910"
+"Edgecombe County, North Carolina",37065,41198,"2,909"
+"Hertford County, North Carolina",37091,41278,"2,908"
+"Tallahatchie County, Mississippi",28135,41289,"2,907"
+"Socorro County, New Mexico",35053,41329,"2,906"
+"Rolette County, North Dakota",38079,41361,"2,905"
+"Sierra County, New Mexico",35051,41387,"2,904"
+"Clarendon County, South Carolina",45027,41390,"2,903"
+"Owyhee County, Idaho",16073,41392,"2,902"
+"Colleton County, South Carolina",45029,41435,"2,901"
+"Madison County, Florida",12079,41436,"2,900"
+"Duval County, Texas",48131,41439,"2,899"
+"Hardee County, Florida",12049,41440,"2,898"
+"Halifax County, North Carolina",37083,41449,"2,897"
+"Fairfield County, South Carolina",45039,41456,"2,896"
+"Wilcox County, Georgia",13315,41466,"2,895"
+"Winston County, Alabama",1133,41493,"2,894"
+"Bladen County, North Carolina",37017,41501,"2,893"
+"Letcher County, Kentucky",21133,41524,"2,892"
+"La Paz County, Arizona",4012,41530,"2,891"
+"Benton County, Missouri",29015,41531,"2,890"
+"Elbert County, Georgia",13105,41535,"2,889"
+"Cook County, Georgia",13075,41553,"2,888"
+"Perry County, Mississippi",28111,41566,"2,887"
+"Pushmataha County, Oklahoma",40127,41591,"2,886"
+"Crowley County, Colorado",8025,41607,"2,884"
+"Rockcastle County, Kentucky",21203,41607,"2,884"
+"Claiborne Parish, Louisiana",22027,41612,"2,883"
+"Marion County, Alabama",1093,41635,"2,882"
+"Red River County, Texas",48387,41652,"2,881"
+"Hidalgo County, New Mexico",35023,41658,"2,880"
+"Hardeman County, Tennessee",47069,41674,"2,879"
+"Okeechobee County, Florida",12093,41717,"2,878"
+"Decatur County, Georgia",13087,41730,"2,877"
+"Montmorency County, Michigan",26119,41772,"2,876"
+"Wayne County, Tennessee",47181,41789,"2,875"
+"Hempstead County, Arkansas",5057,41791,"2,874"
+"Bradley County, Arkansas",5011,41816,"2,873"
+"Pickens County, Alabama",1107,41840,"2,872"
+"Prentiss County, Mississippi",28117,41851,"2,871"
+"Taylor County, Kentucky",21217,41854,"2,870"
+"Bent County, Colorado",8011,41875,"2,869"
+"Meigs County, Tennessee",47121,41886,"2,868"
+"St. Helena Parish, Louisiana",22091,41908,"2,867"
+"Montgomery County, Arkansas",5097,41909,"2,866"
+"Webb County, Texas",48479,41922,"2,865"
+"Hampshire County, West Virginia",54027,41950,"2,864"
+"Laurens County, Georgia",13175,41960,"2,863"
+"Coffee County, Georgia",13069,41968,"2,862"
+"New Madrid County, Missouri",29143,42003,"2,861"
+"Mississippi County, Arkansas",5093,42005,"2,860"
+"Franklin City, Virginia",51620,42016,"2,859"
+"Berrien County, Georgia",13019,42017,"2,858"
+"Washington Parish, Louisiana",22117,42029,"2,857"
+"Concordia Parish, Louisiana",22029,42057,"2,856"
+"Bullock County, Alabama",1011,42074,"2,855"
+"Owsley County, Kentucky",21189,42083,"2,854"
+"Otero County, Colorado",8089,42088,"2,853"
+"Dewey County, South Dakota",46041,42135,"2,852"
+"Roscommon County, Michigan",26143,42155,"2,851"
+"Bienville Parish, Louisiana",22013,42172,"2,850"
+"Izard County, Arkansas",5065,42196,"2,849"
+"Dallas County, Missouri",29059,42212,"2,848"
+"Barbour County, Alabama",1005,42216,"2,847"
+"Copiah County, Mississippi",28029,42221,"2,846"
+"Oscoda County, Michigan",26135,42248,"2,845"
+"Emporia City, Virginia",51595,42279,"2,844"
+"Metcalfe County, Kentucky",21169,42285,"2,843"
+"Avoyelles Parish, Louisiana",22009,42288,"2,842"
+"Unicoi County, Tennessee",47171,42295,"2,841"
+"Montgomery County, Georgia",13209,42298,"2,840"
+"Mitchell County, Georgia",13205,42311,"2,839"
+"Highlands County, Florida",12055,42321,"2,838"
+"Evans County, Georgia",13109,42395,"2,837"
+"Hart County, Kentucky",21099,42412,"2,836"
+"Castro County, Texas",48069,42432,"2,835"
+"Duplin County, North Carolina",37061,42449,"2,834"
+"Lincoln County, Arkansas",5079,42453,"2,832"
+"Pike County, Kentucky",21195,42453,"2,832"
+"Franklin County, Georgia",13119,42457,"2,831"
+"Hale County, Alabama",1065,42458,"2,830"
+"Logan County, Arkansas",5083,42473,"2,829"
+"Polk County, Arkansas",5113,42521,"2,828"
+"Holmes County, Florida",12059,42534,"2,827"
+"Coosa County, Alabama",1037,42539,"2,826"
+"Johnson County, Tennessee",47091,42550,"2,825"
+"Chester County, South Carolina",45023,42560,"2,824"
+"Walthall County, Mississippi",28147,42572,"2,823"
+"Jefferson County, Oklahoma",40067,42601,"2,822"
+"Atoka County, Oklahoma",40005,42605,"2,820"
+"Carter County, Tennessee",47019,42605,"2,820"
+"Galax City, Virginia",51640,42616,"2,819"
+"Macon County, Tennessee",47111,42629,"2,818"
+"Coleman County, Texas",48083,42649,"2,817"
+"Danville City, Virginia",51590,42656,"2,816"
+"Tishomingo County, Mississippi",28141,42664,"2,815"
+"Ouachita County, Arkansas",5103,42668,"2,814"
+"Amite County, Mississippi",28005,42672,"2,813"
+"Navajo County, Arizona",4017,42673,"2,812"
+"Perry County, Kentucky",21193,42725,"2,811"
+"Newton County, Arkansas",5101,42730,"2,810"
+"Nevada County, Arkansas",5099,42735,"2,809"
+"Union County, Tennessee",47173,42738,"2,808"
+"Roane County, West Virginia",54087,42745,"2,807"
+"St. Clair County, Missouri",29185,42767,"2,806"
+"Adams County, Ohio",39001,42778,"2,805"
+"Johnson County, Arkansas",5071,42825,"2,804"
+"Union County, Mississippi",28145,42850,"2,803"
+"Prairie County, Arkansas",5117,42857,"2,802"
+"Butler County, Kentucky",21031,42870,"2,801"
+"Howard County, Arkansas",5061,42875,"2,800"
+"Rutherford County, North Carolina",37161,42886,"2,799"
+"Camp County, Texas",48063,42900,"2,798"
+"Esmeralda County, Nevada",32009,42917,"2,797"
+"Vance County, North Carolina",37181,42931,"2,796"
+"Echols County, Georgia",13101,42955,"2,795"
+"Howell County, Missouri",29091,42959,"2,794"
+"Alleghany County, North Carolina",37005,42962,"2,793"
+"Ware County, Georgia",13299,43029,"2,792"
+"Comanche County, Texas",48093,43034,"2,791"
+"Cochran County, Texas",48079,43036,"2,790"
+"Jim Hogg County, Texas",48247,43056,"2,789"
+"La Salle County, Texas",48283,43189,"2,788"
+"Clay County, Alabama",1027,43192,"2,787"
+"White County, Tennessee",47185,43223,"2,786"
+"Marion County, Arkansas",5089,43233,"2,785"
+"Laurel County, Kentucky",21125,43236,"2,784"
+"Lee County, Virginia",51105,43240,"2,783"
+"Seminole County, Georgia",13253,43250,"2,782"
+"Franklin Parish, Louisiana",22041,43273,"2,781"
+"San Miguel County, New Mexico",35047,43319,"2,780"
+"Madison County, Missouri",29123,43320,"2,779"
+"Talbot County, Georgia",13263,43345,"2,778"
+"Lincoln County, Kentucky",21137,43356,"2,777"
+"Wilkes County, North Carolina",37193,43360,"2,776"
+"Benton County, Tennessee",47005,43362,"2,775"
+"Lincoln County, Georgia",13181,43382,"2,774"
+"Lake County, Oregon",41037,43401,"2,773"
+"Charlotte County, Virginia",51037,43403,"2,772"
+"Fulton County, Arkansas",5049,43407,"2,771"
+"Union County, South Carolina",45087,43422,"2,770"
+"Blaine County, Montana",30005,43444,"2,769"
+"Sequoyah County, Oklahoma",40135,43495,"2,768"
+"Cottle County, Texas",48101,43500,"2,767"
+"Fayette County, Alabama",1057,43502,"2,766"
+"Casey County, Kentucky",21045,43506,"2,765"
+"Lawrence County, Mississippi",28077,43517,"2,764"
+"Calhoun County, Florida",12013,43620,"2,762"
+"Washington County, Idaho",16087,43620,"2,762"
+"Monroe County, West Virginia",54063,43629,"2,761"
+"McDuffie County, Georgia",13189,43630,"2,760"
+"Menard County, Texas",48327,43667,"2,759"
+"Clay County, Arkansas",5021,43673,"2,758"
+"Taylor County, Florida",12123,43678,"2,757"
+"Dent County, Missouri",29065,43691,"2,756"
+"Terry County, Texas",48445,43707,"2,755"
+"Fayette County, West Virginia",54019,43721,"2,754"
+"Cherokee County, North Carolina",37039,43727,"2,753"
+"Choctaw County, Oklahoma",40023,43750,"2,751"
+"Pike County, Arkansas",5109,43750,"2,751"
+"Johnson County, Kentucky",21115,43770,"2,750"
+"Orangeburg County, South Carolina",45075,43795,"2,749"
+"Overton County, Tennessee",47133,43803,"2,748"
+"Hendry County, Florida",12051,43810,"2,747"
+"Crawford County, Indiana",18025,43837,"2,746"
+"Eastland County, Texas",48133,43838,"2,745"
+"Lenoir County, North Carolina",37107,43844,"2,744"
+"Henry County, Virginia",51089,43847,"2,743"
+"Huerfano County, Colorado",8055,43909,"2,742"
+"Tattnall County, Georgia",13267,43910,"2,741"
+"Ashley County, Arkansas",5003,43916,"2,740"
+"Bledsoe County, Tennessee",47007,43918,"2,739"
+"Real County, Texas",48385,43929,"2,738"
+"Sampson County, North Carolina",37163,43946,"2,737"
+"Dodge County, Georgia",13091,43966,"2,736"
+"Lincoln County, West Virginia",54043,43990,"2,735"
+"Washington County, North Carolina",37187,43991,"2,734"
+"McDonald County, Missouri",29119,43993,"2,733"
+"Hooker County, Nebraska",31091,44000,"2,732"
+"Alcorn County, Mississippi",28003,44008,"2,731"
+"Putnam County, Missouri",29171,44018,"2,730"
+"Brooks County, Georgia",13027,44031,"2,728"
+"Monroe County, Tennessee",47123,44031,"2,728"
+"Kenedy County, Texas",48261,44063,"2,726"
+"Marshall County, Mississippi",28093,44063,"2,726"
+"Greene County, Tennessee",47059,44064,"2,725"
+"Yell County, Arkansas",5149,44079,"2,724"
+"Yuma County, Arizona",4027,44088,"2,723"
+"Patrick County, Virginia",51141,44106,"2,722"
+"Lewis County, Tennessee",47101,44126,"2,721"
+"Grainger County, Tennessee",47057,44163,"2,720"
+"Barnwell County, South Carolina",45011,44224,"2,719"
+"Dickenson County, Virginia",51051,44227,"2,718"
+"Webster Parish, Louisiana",22119,44235,"2,717"
+"Santa Cruz County, Arizona",4023,44257,"2,716"
+"Gadsden County, Florida",12039,44278,"2,715"
+"Trinity County, Texas",48455,44286,"2,714"
+"Bailey County, Texas",48017,44309,"2,713"
+"Tippah County, Mississippi",28139,44315,"2,712"
+"Grayson County, Kentucky",21085,44327,"2,711"
+"Dixie County, Florida",12029,44338,"2,710"
+"Wilkes County, Georgia",13317,44342,"2,709"
+"Natchitoches Parish, Louisiana",22069,44368,"2,708"
+"Mingo County, West Virginia",54059,44384,"2,707"
+"Brantley County, Georgia",13025,44396,"2,706"
+"Talladega County, Alabama",1121,44397,"2,705"
+"Saguache County, Colorado",8109,44405,"2,704"
+"Crockett County, Tennessee",47033,44419,"2,703"
+"Iron County, Missouri",29093,44437,"2,702"
+"Screven County, Georgia",13251,44438,"2,701"
+"Butler County, Missouri",29023,44440,"2,700"
+"Haywood County, Tennessee",47075,44456,"2,699"
+"McDowell County, North Carolina",37111,44487,"2,698"
+"Golden Valley County, Montana",30037,44500,"2,697"
+"Ogemaw County, Michigan",26129,44501,"2,696"
+"Newton County, Mississippi",28101,44509,"2,695"
+"Johnson County, Georgia",13167,44520,"2,694"
+"Lawrence County, Kentucky",21127,44529,"2,693"
+"Wayne County, Mississippi",28153,44561,"2,692"
+"Claiborne County, Tennessee",47025,44563,"2,691"
+"Levy County, Florida",12075,44586,"2,690"
+"Pulaski County, Illinois",17153,44611,"2,689"
+"Madison County, Arkansas",5087,44643,"2,688"
+"Ferry County, Washington",53019,44688,"2,686"
+"Keweenaw County, Michigan",26083,44688,"2,686"
+"Cumberland County, Tennessee",47035,44717,"2,685"
+"Pickett County, Tennessee",47137,44755,"2,684"
+"Union County, Florida",12125,44767,"2,683"
+"Columbus County, North Carolina",37047,44783,"2,682"
+"Chattahoochee County, Georgia",13053,44787,"2,681"
+"Houston County, Texas",48225,44799,"2,680"
+"Hyde County, North Carolina",37095,44801,"2,679"
+"Panola County, Mississippi",28107,44803,"2,678"
+"Tulare County, California",6107,44814,"2,677"
+"Van Buren County, Arkansas",5141,44829,"2,676"
+"Franklin County, Alabama",1059,44847,"2,675"
+"Worth County, Georgia",13321,44852,"2,674"
+"Thomas County, Georgia",13275,44878,"2,673"
+"Russell County, Alabama",1113,44886,"2,672"
+"Ottawa County, Oklahoma",40115,44906,"2,671"
+"Abbeville County, South Carolina",45001,44918,"2,670"
+"Wirt County, West Virginia",54105,44929,"2,669"
+"Laurens County, South Carolina",45059,44933,"2,668"
+"Greensville County, Virginia",51081,44934,"2,667"
+"Rio Arriba County, New Mexico",35039,44963,"2,666"
+"Dimmit County, Texas",48127,44968,"2,665"
+"Baca County, Colorado",8009,44972,"2,664"
+"DeKalb County, Tennessee",47041,44993,"2,663"
+"Crawford County, Missouri",29055,45000,"2,660"
+"Miller County, Georgia",13201,45000,"2,660"
+"Piute County, Utah",49031,45000,"2,660"
+"Barbour County, West Virginia",54001,45005,"2,659"
+"Pulaski County, Kentucky",21199,45029,"2,658"
+"Independence County, Arkansas",5063,45030,"2,657"
+"Dona Ana County, New Mexico",35013,45044,"2,656"
+"Bibb County, Alabama",1007,45081,"2,655"
+"Marion County, Georgia",13197,45086,"2,654"
+"Ohio County, Kentucky",21183,45113,"2,653"
+"Choctaw County, Mississippi",28019,45139,"2,652"
+"Neshoba County, Mississippi",28099,45141,"2,651"
+"Jones County, Mississippi",28067,45157,"2,650"
+"Meriwether County, Georgia",13199,45169,"2,649"
+"Tillman County, Oklahoma",40141,45199,"2,648"
+"Van Buren County, Tennessee",47175,45212,"2,647"
+"Jackson County, Florida",12063,45222,"2,646"
+"Robertson County, Kentucky",21201,45231,"2,645"
+"Treasure County, Montana",30103,45268,"2,644"
+"Jones County, North Carolina",37103,45308,"2,643"
+"Hardin County, Tennessee",47071,45317,"2,642"
+"Washington County, Florida",12133,45335,"2,641"
+"Yancey County, North Carolina",37199,45347,"2,640"
+"Bristol City, Virginia",51520,45363,"2,639"
+"Jackson Parish, Louisiana",22049,45398,"2,638"
+"Reynolds County, Missouri",29179,45409,"2,637"
+"Yalobusha County, Mississippi",28161,45423,"2,636"
+"Suwannee County, Florida",12121,45425,"2,635"
+"Carroll County, Virginia",51035,45434,"2,634"
+"Clay County, North Carolina",37043,45435,"2,633"
+"Carter County, Kentucky",21043,45438,"2,631"
+"Geneva County, Alabama",1061,45438,"2,631"
+"Taos County, New Mexico",35055,45439,"2,630"
+"Seminole County, Oklahoma",40133,45441,"2,629"
+"Cherokee County, Alabama",1019,45444,"2,628"
+"Fleming County, Kentucky",21069,45469,"2,627"
+"Jackson County, Alabama",1071,45473,"2,626"
+"Mason County, West Virginia",54053,45474,"2,625"
+"Calhoun County, West Virginia",54013,45500,"2,624"
+"Ashe County, North Carolina",37009,45510,"2,623"
+"Marengo County, Alabama",1091,45524,"2,622"
+"Wilkinson County, Georgia",13319,45526,"2,621"
+"St. Landry Parish, Louisiana",22097,45530,"2,620"
+"Carroll County, Arkansas",5015,45548,"2,619"
+"Schuyler County, Missouri",29197,45551,"2,618"
+"San Saba County, Texas",48411,45563,"2,617"
+"Ontonagon County, Michigan",26131,45585,"2,616"
+"Hickman County, Tennessee",47081,45587,"2,615"
+"Murray County, Georgia",13213,45595,"2,614"
+"Drew County, Arkansas",5043,45597,"2,613"
+"Morgan County, Tennessee",47129,45613,"2,612"
+"Saluda County, South Carolina",45081,45625,"2,611"
+"Richland Parish, Louisiana",22083,45641,"2,610"
+"Morgan County, Missouri",29141,45670,"2,609"
+"Adair County, Kentucky",21001,45673,"2,608"
+"Okfuskee County, Oklahoma",40107,45675,"2,607"
+"Le Flore County, Oklahoma",40079,45696,"2,606"
+"Clayton County, Georgia",13063,45702,"2,604"
+"Franklin County, Arkansas",5047,45702,"2,604"
+"Polk County, Tennessee",47139,45708,"2,603"
+"Forest County, Pennsylvania",42053,45717,"2,602"
+"Cherokee County, South Carolina",45021,45724,"2,601"
+"Lincoln County, Montana",30053,45735,"2,600"
+"Siskiyou County, California",6093,45742,"2,599"
+"Covington County, Alabama",1039,45758,"2,598"
+"Lewis County, West Virginia",54041,45766,"2,597"
+"Chambers County, Alabama",1017,45779,"2,596"
+"Dade County, Missouri",29057,45781,"2,595"
+"DeKalb County, Alabama",1049,45803,"2,594"
+"Imperial County, California",6025,45815,"2,593"
+"Benson County, North Dakota",38005,45833,"2,591"
+"Custer County, Colorado",8027,45833,"2,591"
+"Adams County, Idaho",16003,45841,"2,590"
+"Randolph County, Arkansas",5121,45871,"2,589"
+"Chautauqua County, Kansas",20019,45893,"2,588"
+"Fannin County, Georgia",13111,45909,"2,587"
+"Collingsworth County, Texas",48087,45927,"2,585"
+"Essex County, Vermont",50009,45927,"2,585"
+"Brown County, Nebraska",31017,45963,"2,584"
+"Torrance County, New Mexico",35057,45974,"2,583"
+"Richmond County, Georgia",13245,45999,"2,582"
+"Pulaski County, Georgia",13235,46038,"2,581"
+"Iosco County, Michigan",26069,46042,"2,580"
+"Laclede County, Missouri",29105,46043,"2,579"
+"Haskell County, Oklahoma",40061,46044,"2,578"
+"Appling County, Georgia",13001,46048,"2,577"
+"Itawamba County, Mississippi",28057,46052,"2,576"
+"Irwin County, Georgia",13155,46055,"2,575"
+"Surry County, North Carolina",37171,46068,"2,574"
+"Gordon County, Georgia",13129,46083,"2,573"
+"Pendleton County, West Virginia",54071,46091,"2,572"
+"Miller County, Missouri",29131,46093,"2,571"
+"El Paso County, Texas",48141,46096,"2,570"
+"Carroll County, Tennessee",47017,46111,"2,569"
+"Carter County, Missouri",29035,46116,"2,568"
+"Madison County, Texas",48313,46137,"2,567"
+"Benewah County, Idaho",16009,46139,"2,566"
+"Graham County, North Carolina",37075,46140,"2,565"
+"Darlington County, South Carolina",45031,46146,"2,564"
+"Wayne County, Utah",49055,46154,"2,563"
+"Baxter County, Arkansas",5005,46178,"2,562"
+"Shelby County, Texas",48419,46187,"2,561"
+"Upson County, Georgia",13293,46191,"2,560"
+"Luce County, Michigan",26095,46194,"2,559"
+"Toombs County, Georgia",13279,46240,"2,558"
+"Warren County, North Carolina",37185,46250,"2,557"
+"Christian County, Kentucky",21047,46255,"2,556"
+"Sevier County, Arkansas",5133,46261,"2,555"
+"Barton County, Missouri",29011,46262,"2,554"
+"Boone County, Arkansas",5009,46267,"2,553"
+"Mohave County, Arizona",4015,46268,"2,552"
+"Mercer County, West Virginia",54055,46277,"2,551"
+"Arkansas County, Arkansas",5001,46282,"2,550"
+"Grenada County, Mississippi",28043,46316,"2,549"
+"St. Louis City, Missouri",29510,46334,"2,548"
+"Martin County, North Carolina",37117,46342,"2,546"
+"Taney County, Missouri",29213,46342,"2,546"
+"Crittenden County, Arkansas",5035,46349,"2,545"
+"Mackinac County, Michigan",26097,46354,"2,544"
+"McIntosh County, Oklahoma",40091,46359,"2,543"
+"Jasper County, Georgia",13159,46394,"2,541"
+"Pike County, Ohio",39131,46394,"2,541"
+"Chowan County, North Carolina",37041,46401,"2,540"
+"Clarke County, Mississippi",28023,46406,"2,539"
+"Liberty County, Georgia",13179,46414,"2,538"
+"Hardy County, West Virginia",54031,46422,"2,537"
+"Bennett County, South Dakota",46007,46429,"2,536"
+"Arenac County, Michigan",26011,46436,"2,535"
+"Josephine County, Oregon",41033,46452,"2,534"
+"Wheeler County, Oregon",41069,46458,"2,533"
+"Bee County, Texas",48025,46496,"2,532"
+"Washington County, Maine",23029,46499,"2,531"
+"Decatur County, Tennessee",47039,46500,"2,530"
+"Potter County, Texas",48375,46529,"2,529"
+"Hamblen County, Tennessee",47063,46537,"2,528"
+"Covington City, Virginia",51580,46541,"2,527"
+"Martinsville City, Virginia",51690,46565,"2,526"
+"Dallas County, Arkansas",5039,46578,"2,525"
+"Limestone County, Texas",48293,46626,"2,524"
+"Randolph County, Alabama",1111,46633,"2,523"
+"Scott County, Virginia",51169,46636,"2,522"
+"Colfax County, New Mexico",35007,46643,"2,521"
+"Cross County, Arkansas",5037,46645,"2,520"
+"Linn County, Missouri",29115,46649,"2,519"
+"Kleberg County, Texas",48273,46650,"2,518"
+"Hart County, Georgia",13147,46670,"2,517"
+"Green County, Kentucky",21087,46674,"2,516"
+"Idaho County, Idaho",16049,46681,"2,515"
+"Calhoun County, Arkansas",5013,46688,"2,514"
+"Lynn County, Texas",48305,46691,"2,513"
+"Yadkin County, North Carolina",37197,46704,"2,512"
+"Avery County, North Carolina",37011,46707,"2,511"
+"Clearwater County, Idaho",16035,46713,"2,510"
+"Dallam County, Texas",48111,46715,"2,509"
+"Pike County, Alabama",1109,46716,"2,508"
+"Montgomery County, Kentucky",21173,46729,"2,507"
+"Morgan County, Ohio",39115,46735,"2,506"
+"Texas County, Missouri",29215,46775,"2,505"
+"Merced County, California",6047,46793,"2,504"
+"St. Bernard Parish, Louisiana",22087,46804,"2,503"
+"Summers County, West Virginia",54089,46814,"2,502"
+"Wayne County, West Virginia",54099,46827,"2,501"
+"Acadia Parish, Louisiana",22001,46837,"2,500"
+"Uvalde County, Texas",48463,46839,"2,499"
+"Blackford County, Indiana",18009,46840,"2,498"
+"Swain County, North Carolina",37173,46841,"2,497"
+"Philadelphia County, Pennsylvania",42101,46864,"2,496"
+"West Carroll Parish, Louisiana",22123,46892,"2,495"
+"Osceola County, Michigan",26133,46896,"2,494"
+"Logan County, West Virginia",54045,46928,"2,493"
+"Shannon County, Missouri",29203,46935,"2,492"
+"McCulloch County, Texas",48307,46938,"2,491"
+"Webster County, Mississippi",28155,46942,"2,490"
+"Somerset County, Maryland",24039,46947,"2,489"
+"Power County, Idaho",16077,46962,"2,488"
+"Monroe County, Mississippi",28095,46979,"2,486"
+"Nicholas County, Kentucky",21181,46979,"2,486"
+"Warren County, Tennessee",47177,47001,"2,485"
+"Scott County, Missouri",29201,47015,"2,484"
+"Vinton County, Ohio",39163,47028,"2,483"
+"Iron County, Michigan",26071,47031,"2,482"
+"Henry County, Tennessee",47079,47035,"2,481"
+"Walker County, Alabama",1127,47069,"2,480"
+"Houston County, Tennessee",47083,47072,"2,479"
+"Washington County, Georgia",13303,47091,"2,478"
+"Choctaw County, Alabama",1023,47112,"2,477"
+"Wyandotte County, Kansas",20209,47117,"2,476"
+"Piscataquis County, Maine",23021,47132,"2,475"
+"Meigs County, Ohio",39105,47166,"2,474"
+"Clarke County, Alabama",1025,47168,"2,473"
+"Lawrence County, Tennessee",47099,47202,"2,472"
+"Mason County, Kentucky",21161,47206,"2,471"
+"Johnston County, Oklahoma",40069,47218,"2,470"
+"Montgomery County, North Carolina",37123,47226,"2,469"
+"Little River County, Arkansas",5081,47237,"2,468"
+"Lake County, California",6033,47238,"2,467"
+"Hale County, Texas",48189,47244,"2,466"
+"Delaware County, Oklahoma",40041,47255,"2,465"
+"Thurston County, Nebraska",31173,47257,"2,464"
+"Forrest County, Mississippi",28035,47268,"2,463"
+"Wyoming County, West Virginia",54109,47273,"2,462"
+"Rusk County, Wisconsin",55107,47275,"2,461"
+"Rhea County, Tennessee",47143,47278,"2,460"
+"Caldwell Parish, Louisiana",22021,47321,"2,459"
+"Gila County, Arizona",4007,47335,"2,458"
+"Tift County, Georgia",13277,47346,"2,457"
+"Union Parish, Louisiana",22111,47372,"2,456"
+"Smith County, Mississippi",28129,47375,"2,455"
+"Red River Parish, Louisiana",22081,47386,"2,454"
+"Rabun County, Georgia",13241,47391,"2,453"
+"Nolan County, Texas",48353,47445,"2,452"
+"Hawkins County, Tennessee",47073,47450,"2,451"
+"Cherokee County, Texas",48073,47457,"2,450"
+"Gladwin County, Michigan",26051,47467,"2,449"
+"Marion County, Kentucky",21155,47473,"2,448"
+"Barren County, Kentucky",21009,47480,"2,447"
+"Marion County, Texas",48315,47482,"2,446"
+"Otero County, New Mexico",35035,47489,"2,445"
+"Lamb County, Texas",48279,47500,"2,444"
+"Alcona County, Michigan",26001,47514,"2,443"
+"Fayette County, Indiana",18041,47515,"2,442"
+"Marshall County, Oklahoma",40095,47525,"2,441"
+"Larue County, Kentucky",21123,47527,"2,440"
+"Craig County, Oklahoma",40035,47574,"2,439"
+"Braxton County, West Virginia",54007,47583,"2,438"
+"Rockingham County, North Carolina",37157,47610,"2,437"
+"Geary County, Kansas",20061,47636,"2,436"
+"Keya Paha County, Nebraska",31103,47639,"2,435"
+"Prowers County, Colorado",8099,47641,"2,434"
+"Towns County, Georgia",13281,47656,"2,433"
+"Smyth County, Virginia",51173,47666,"2,432"
+"Hughes County, Oklahoma",40063,47689,"2,431"
+"Cheboygan County, Michigan",26031,47717,"2,430"
+"Lunenburg County, Virginia",51111,47737,"2,429"
+"Hinds County, Mississippi",28049,47739,"2,428"
+"Kalkaska County, Michigan",26079,47742,"2,427"
+"Macon County, North Carolina",37113,47746,"2,426"
+"Harding County, New Mexico",35021,47750,"2,425"
+"Highland County, Ohio",39071,47764,"2,424"
+"Big Horn County, Montana",30003,47773,"2,423"
+"Lincoln County, Tennessee",47103,47790,"2,422"
+"Whitfield County, Georgia",13313,47803,"2,421"
+"Caldwell County, North Carolina",37027,47815,"2,420"
+"Schoolcraft County, Michigan",26153,47816,"2,419"
+"Newton County, Texas",48351,47827,"2,418"
+"Citrus County, Florida",12017,47829,"2,417"
+"Modoc County, California",6049,47838,"2,416"
+"Jackson County, South Dakota",46071,47857,"2,413"
+"Sullivan County, Missouri",29211,47857,"2,413"
+"Webster County, Georgia",13307,47857,"2,413"
+"Lauderdale County, Mississippi",28075,47861,"2,412"
+"Garfield County, Utah",49017,47865,"2,411"
+"Cass County, Texas",48067,47871,"2,410"
+"Logan County, Kentucky",21141,47879,"2,409"
+"Henderson County, Tennessee",47077,47885,"2,408"
+"Alpena County, Michigan",26007,47889,"2,407"
+"White County, Georgia",13311,47894,"2,406"
+"Lawrence County, Missouri",29109,47904,"2,405"
+"Gibson County, Tennessee",47053,47933,"2,404"
+"Bedford County, Tennessee",47003,47941,"2,403"
+"Osceola County, Florida",12097,47952,"2,402"
+"Shoshone County, Idaho",16079,47953,"2,401"
+"Carroll County, Kentucky",21041,47989,"2,400"
+"Nowata County, Oklahoma",40105,47993,"2,399"
+"Monroe County, Ohio",39111,48000,"2,398"
+"Obion County, Tennessee",47131,48020,"2,397"
+"Washington County, Alabama",1129,48031,"2,396"
+"Yukon-Koyukuk Census Area, Alaska",2290,48036,"2,395"
+"Russell County, Virginia",51167,48040,"2,394"
+"Hot Spring County, Arkansas",5059,48068,"2,393"
+"Coos County, Oregon",41011,48080,"2,392"
+"Putnam County, Tennessee",47141,48106,"2,391"
+"Caswell County, North Carolina",37033,48125,"2,390"
+"Marion County, Florida",12083,48128,"2,389"
+"Grant County, West Virginia",54023,48133,"2,388"
+"Gem County, Idaho",16045,48138,"2,385"
+"Marshall County, Alabama",1095,48138,"2,385"
+"Wilson County, North Carolina",37195,48138,"2,385"
+"Pierce County, Georgia",13229,48180,"2,384"
+"Wise County, Virginia",51195,48187,"2,383"
+"Cullman County, Alabama",1043,48200,"2,382"
+"Grant County, Nebraska",31075,48214,"2,381"
+"Bollinger County, Missouri",29017,48266,"2,380"
+"Nome Census Area, Alaska",2180,48273,"2,379"
+"Crawford County, Arkansas",5033,48279,"2,378"
+"Orange County, Indiana",18117,48281,"2,377"
+"Greenbrier County, West Virginia",54025,48287,"2,376"
+"Greene County, North Carolina",37079,48294,"2,375"
+"Jerome County, Idaho",16053,48336,"2,374"
+"Jefferson County, Arkansas",5069,48337,"2,373"
+"Missaukee County, Michigan",26113,48372,"2,372"
+"Morris County, Texas",48343,48378,"2,371"
+"Switzerland County, Indiana",18155,48384,"2,370"
+"Lowndes County, Georgia",13185,48391,"2,369"
+"Swisher County, Texas",48437,48413,"2,368"
+"Elk County, Kansas",20049,48424,"2,367"
+"Gallia County, Ohio",39053,48426,"2,366"
+"Grant County, New Mexico",35017,48428,"2,365"
+"Palo Pinto County, Texas",48363,48445,"2,364"
+"Muhlenberg County, Kentucky",21177,48522,"2,363"
+"Harrison County, Kentucky",21097,48526,"2,362"
+"Union County, Kentucky",21225,48538,"2,361"
+"Bacon County, Georgia",13005,48555,"2,360"
+"Okanogan County, Washington",53047,48567,"2,359"
+"Floyd County, Texas",48153,48569,"2,358"
+"Klamath County, Oregon",41035,48570,"2,357"
+"Chouteau County, Montana",30015,48583,"2,356"
+"Meagher County, Montana",30059,48607,"2,354"
+"St. Francois County, Missouri",29187,48607,"2,354"
+"Conejos County, Colorado",8021,48616,"2,353"
+"Franklin County, Florida",12037,48621,"2,352"
+"Crawford County, Georgia",13079,48632,"2,351"
+"Vernon County, Missouri",29217,48655,"2,350"
+"Hickman County, Kentucky",21105,48661,"2,349"
+"Tehama County, California",6103,48662,"2,348"
+"Polk County, Georgia",13233,48680,"2,347"
+"Wayne County, Georgia",13305,48706,"2,346"
+"Lanier County, Georgia",13173,48713,"2,345"
+"Wetzel County, West Virginia",54103,48724,"2,344"
+"Butte County, Idaho",16023,48750,"2,341"
+"DeBaca County, New Mexico",35011,48750,"2,341"
+"Prairie County, Montana",30079,48750,"2,341"
+"Cleburne County, Alabama",1029,48761,"2,340"
+"Saline County, Missouri",29195,48778,"2,339"
+"Hernando County, Florida",12053,48785,"2,338"
+"Nicholas County, West Virginia",54067,48821,"2,337"
+"Cloud County, Kansas",20029,48841,"2,336"
+"Barry County, Missouri",29009,48854,"2,335"
+"Gilmer County, Georgia",13123,48856,"2,333"
+"Gooding County, Idaho",16047,48856,"2,333"
+"Gallatin County, Illinois",17059,48868,"2,332"
+"Spalding County, Georgia",13255,48886,"2,331"
+"Malheur County, Oregon",41045,48890,"2,330"
+"Baldwin County, Georgia",13009,48893,"2,329"
+"Coal County, Oklahoma",40029,48899,"2,328"
+"Alamosa County, Colorado",8003,48905,"2,327"
+"McCormick County, South Carolina",45065,48924,"2,326"
+"Terrell County, Texas",48443,48929,"2,325"
+"Okmulgee County, Oklahoma",40111,48942,"2,324"
+"Val Verde County, Texas",48465,48944,"2,323"
+"Tazewell County, Virginia",51185,48963,"2,322"
+"Fremont County, Colorado",8043,48972,"2,321"
+"St. Mary Parish, Louisiana",22101,48992,"2,320"
+"Oneida County, Idaho",16071,48995,"2,319"
+"Perquimans County, North Carolina",37143,49000,"2,318"
+"Wayne County, Indiana",18177,49006,"2,317"
+"Wilson County, Kansas",20205,49007,"2,316"
+"Schley County, Georgia",13249,49010,"2,315"
+"Greenwood County, South Carolina",45047,49015,"2,313"
+"Powell County, Kentucky",21197,49015,"2,313"
+"Oceana County, Michigan",26127,49019,"2,312"
+"Nye County, Nevada",32023,49046,"2,311"
+"Conway County, Arkansas",5029,49061,"2,310"
+"Canyon County, Idaho",16027,49075,"2,309"
+"Falls County, Texas",48145,49092,"2,308"
+"Marion County, Tennessee",47115,49097,"2,307"
+"Pope County, Arkansas",5115,49106,"2,306"
+"Cleveland County, North Carolina",37045,49111,"2,305"
+"Trinity County, California",6105,49118,"2,304"
+"Union County, Arkansas",5139,49132,"2,303"
+"Lawrence County, Alabama",1079,49135,"2,302"
+"Grant County, Indiana",18053,49160,"2,301"
+"Curry County, Oregon",41015,49170,"2,300"
+"Stoddard County, Missouri",29207,49185,"2,299"
+"Titus County, Texas",48449,49186,"2,298"
+"Halifax County with South Boston City, Virginia",51083,49191,"2,297"
+"Jackson County, Ohio",39079,49197,"2,296"
+"Tillamook County, Oregon",41057,49214,"2,295"
+"Fayette County, Ohio",39047,49222,"2,294"
+"Mecklenburg County, Virginia",51117,49223,"2,293"
+"Bryan County, Oklahoma",40013,49229,"2,292"
+"Kiowa County, Oklahoma",40075,49233,"2,291"
+"Wexford County, Michigan",26165,49258,"2,290"
+"Miami-Dade County, Florida",12086,49264,"2,289"
+"Mifflin County, Pennsylvania",42087,49271,"2,288"
+"Madera County, California",6039,49272,"2,287"
+"Bibb County, Georgia",13021,49275,"2,286"
+"Pershing County, Nevada",32027,49309,"2,285"
+"Scotland County, Missouri",29199,49323,"2,284"
+"Grand County, Utah",49019,49339,"2,283"
+"Edmonson County, Kentucky",21061,49349,"2,282"
+"Mahnomen County, Minnesota",27087,49375,"2,281"
+"Angelina County, Texas",48005,49384,"2,280"
+"Glascock County, Georgia",13125,49406,"2,279"
+"Tallapoosa County, Alabama",1123,49427,"2,278"
+"Montcalm County, Michigan",26117,49442,"2,277"
+"Harrison County, Missouri",29081,49449,"2,276"
+"Macon County, Missouri",29121,49453,"2,274"
+"Presque Isle County, Michigan",26141,49453,"2,274"
+"Habersham County, Georgia",13137,49454,"2,273"
+"Lincoln County, New Mexico",35027,49461,"2,272"
+"Lamar County, Georgia",13171,49467,"2,271"
+"Lincoln County, Idaho",16063,49482,"2,270"
+"Lafayette County, Florida",12067,49495,"2,269"
+"Mitchell County, North Carolina",37121,49502,"2,268"
+"Randolph County, West Virginia",54083,49520,"2,267"
+"Hamilton County, Kansas",20075,49524,"2,266"
+"Simpson County, Kentucky",21213,49527,"2,265"
+"Phillips County, Montana",30071,49535,"2,264"
+"Valencia County, New Mexico",35061,49579,"2,263"
+"Alexander County, North Carolina",37003,49582,"2,262"
+"Jewell County, Kansas",20089,49597,"2,261"
+"Runnels County, Texas",48399,49611,"2,260"
+"Curry County, New Mexico",35009,49615,"2,259"
+"Gogebic County, Michigan",26053,49677,"2,258"
+"Muskogee County, Oklahoma",40101,49682,"2,257"
+"Jackson County, Oklahoma",40065,49684,"2,256"
+"Garland County, Arkansas",5051,49707,"2,255"
+"Adams County, Washington",53001,49723,"2,253"
+"Chaves County, New Mexico",35005,49723,"2,253"
+"Vilas County, Wisconsin",55125,49724,"2,252"
+"Sussex County, Virginia",51183,49730,"2,251"
+"Giles County, Tennessee",47055,49734,"2,250"
+"Kings County, California",6031,49735,"2,249"
+"McMinn County, Tennessee",47107,49737,"2,248"
+"Polk County, Missouri",29167,49755,"2,247"
+"Coffee County, Tennessee",47031,49779,"2,246"
+"Carlisle County, Kentucky",21039,49787,"2,245"
+"Wibaux County, Montana",30109,49800,"2,244"
+"Accomack County, Virginia",51001,49807,"2,243"
+"Grant County, Kentucky",21081,49858,"2,242"
+"Raleigh County, West Virginia",54081,49881,"2,241"
+"Sawyer County, Wisconsin",55113,49886,"2,240"
+"Bethel Census Area, Alaska",2050,49889,"2,239"
+"Yakima County, Washington",53077,49907,"2,238"
+"Gulf County, Florida",12045,49921,"2,237"
+"Coshocton County, Ohio",39031,49925,"2,236"
+"Latimer County, Oklahoma",40077,49942,"2,235"
+"Ritchie County, West Virginia",54085,49943,"2,234"
+"Orleans Parish, Louisiana",22071,49948,"2,232"
+"Powell County, Montana",30077,49948,"2,232"
+"Montgomery County, Missouri",29139,49955,"2,231"
+"Sumter County, South Carolina",45085,49962,"2,230"
+"Fresno County, California",6019,49999,"2,229"
+"Hardeman County, Texas",48197,50000,"2,227"
+"Rio Grande County, Colorado",8105,50000,"2,227"
+"Upshur County, West Virginia",54097,50007,"2,226"
+"Harrison County, Mississippi",28047,50012,"2,225"
+"Northampton County, Virginia",51131,50015,"2,224"
+"Perry County, Ohio",39127,50017,"2,223"
+"Perry County, Arkansas",5105,50030,"2,222"
+"Lowndes County, Mississippi",28087,50033,"2,221"
+"Pend Oreille County, Washington",53051,50036,"2,220"
+"Montgomery County, Kansas",20125,50042,"2,219"
+"Todd County, Kentucky",21219,50059,"2,218"
+"Webster County, Kentucky",21233,50065,"2,217"
+"La Salle Parish, Louisiana",22059,50072,"2,215"
+"Starke County, Indiana",18149,50072,"2,215"
+"Stone County, Mississippi",28131,50074,"2,214"
+"Grant Parish, Louisiana",22043,50077,"2,213"
+"Mineral County, West Virginia",54057,50078,"2,212"
+"Grundy County, Missouri",29079,50086,"2,211"
+"Jefferson County, Oregon",41031,50141,"2,210"
+"Navarro County, Texas",48349,50148,"2,209"
+"Woodson County, Kansas",20207,50162,"2,208"
+"Randolph County, Indiana",18135,50180,"2,207"
+"Pettis County, Missouri",29159,50183,"2,206"
+"Pittsylvania County, Virginia",51143,50187,"2,205"
+"Lewis County, Idaho",16061,50203,"2,204"
+"Columbia County, Washington",53013,50205,"2,203"
+"Troup County, Georgia",13285,50220,"2,202"
+"Seward County, Kansas",20175,50234,"2,201"
+"Crenshaw County, Alabama",1041,50235,"2,200"
+"Douglas County, Oregon",41019,50241,"2,199"
+"Aroostook County, Maine",23003,50246,"2,198"
+"Union County, New Mexico",35059,50250,"2,197"
+"San Juan County, Utah",49037,50257,"2,196"
+"Clarke County, Georgia",13059,50259,"2,195"
+"Carroll County, Mississippi",28015,50276,"2,194"
+"Knox County, Missouri",29103,50299,"2,193"
+"Union County, Georgia",13291,50303,"2,192"
+"Richmond City, Virginia",51760,50307,"2,191"
+"Parke County, Indiana",18121,50326,"2,190"
+"Burke County, North Carolina",37023,50332,"2,189"
+"Matagorda County, Texas",48321,50335,"2,188"
+"Sebastian County, Arkansas",5131,50344,"2,187"
+"Stokes County, North Carolina",37169,50355,"2,186"
+"Allen County, Kansas",20001,50368,"2,185"
+"Chariton County, Missouri",29041,50369,"2,183"
+"Daviess County, Missouri",29061,50369,"2,183"
+"Bleckley County, Georgia",13023,50376,"2,182"
+"Kinney County, Texas",48271,50379,"2,181"
+"Pacific County, Washington",53049,50391,"2,180"
+"Polk County, Texas",48373,50396,"2,179"
+"Donley County, Texas",48129,50400,"2,178"
+"Randolph County, Missouri",29175,50403,"2,177"
+"Cleveland County, Arkansas",5025,50407,"2,175"
+"Glenn County, California",6021,50407,"2,175"
+"Brunswick County, Virginia",51025,50415,"2,174"
+"Stephens County, Georgia",13257,50431,"2,173"
+"Pearl River County, Mississippi",28109,50455,"2,172"
+"Athens County, Ohio",39009,50466,"2,171"
+"Sherman County, Kansas",20181,50467,"2,170"
+"Catron County, New Mexico",35003,50473,"2,169"
+"Ashtabula County, Ohio",39007,50502,"2,168"
+"Somerset County, Maine",23025,50533,"2,167"
+"Ouachita Parish, Louisiana",22073,50538,"2,166"
+"Brown County, Texas",48049,50541,"2,165"
+"Henderson County, Texas",48213,50542,"2,164"
+"Banks County, Georgia",13011,50543,"2,163"
+"Stone County, Missouri",29209,50549,"2,162"
+"Wayne County, North Carolina",37191,50552,"2,161"
+"Guernsey County, Ohio",39059,50579,"2,160"
+"Washington County, Kentucky",21229,50594,"2,159"
+"Madison County, North Carolina",37115,50598,"2,158"
+"Lemhi County, Idaho",16059,50605,"2,157"
+"Rowan County, Kentucky",21205,50628,"2,156"
+"Lamar County, Texas",48277,50634,"2,154"
+"Lyon County, Kansas",20111,50634,"2,154"
+"Manistee County, Michigan",26101,50678,"2,153"
+"Catahoula Parish, Louisiana",22025,50679,"2,151"
+"Livingston County, Kentucky",21139,50679,"2,151"
+"Gilmer County, West Virginia",54021,50698,"2,150"
+"Newberry County, South Carolina",45071,50699,"2,149"
+"Parmer County, Texas",48369,50700,"2,148"
+"Garvin County, Oklahoma",40049,50705,"2,147"
+"Clark County, Arkansas",5019,50721,"2,145"
+"Grant County, Oregon",41023,50721,"2,145"
+"Owen County, Kentucky",21187,50725,"2,144"
+"Knox County, Texas",48275,50729,"2,143"
+"Ashland County, Wisconsin",55003,50730,"2,142"
+"Burnett County, Wisconsin",55013,50734,"2,141"
+"Mercer County, Missouri",29129,50742,"2,139"
+"Newton County, Missouri",29145,50742,"2,139"
+"Jackson County, North Carolina",37099,50768,"2,138"
+"Boone County, West Virginia",54005,50777,"2,137"
+"Boundary County, Idaho",16021,50783,"2,136"
+"Roanoke City, Virginia",51770,50786,"2,135"
+"Gonzales County, Texas",48177,50791,"2,134"
+"Page County, Virginia",51139,50792,"2,133"
+"Rapides Parish, Louisiana",22079,50803,"2,132"
+"Minidoka County, Idaho",16067,50825,"2,131"
+"Sabine Parish, Louisiana",22085,50859,"2,130"
+"Walker County, Georgia",13295,50862,"2,129"
+"Neosho County, Kansas",20133,50868,"2,128"
+"Dawson County, Texas",48115,50884,"2,127"
+"Hoke County, North Carolina",37093,50890,"2,126"
+"Haskell County, Texas",48207,50895,"2,125"
+"Bulloch County, Georgia",13031,50907,"2,124"
+"Columbia County, Arkansas",5027,50910,"2,123"
+"Yuba County, California",6115,50912,"2,122"
+"Scott County, Indiana",18143,50920,"2,120"
+"Taylor County, West Virginia",54091,50920,"2,120"
+"Oxford County, Maine",23017,50922,"2,119"
+"Cannon County, Tennessee",47015,50941,"2,118"
+"Vermillion County, Indiana",18165,50943,"2,117"
+"Deaf Smith County, Texas",48117,50953,"2,116"
+"Jay County, Indiana",18075,50957,"2,115"
+"Sevier County, Tennessee",47155,50959,"2,114"
+"Massac County, Illinois",17127,50965,"2,113"
+"Baraga County, Michigan",26013,50968,"2,112"
+"Madison County, Georgia",13195,50970,"2,111"
+"Crook County, Oregon",41013,50972,"2,110"
+"Anderson County, Texas",48001,50978,"2,109"
+"Sanilac County, Michigan",26151,50984,"2,108"
+"Polk County, Florida",12105,50986,"2,107"
+"Onslow County, North Carolina",37133,51012,"2,106"
+"McPherson County, South Dakota",46089,51016,"2,105"
+"Gregory County, South Dakota",46053,51023,"2,103"
+"Roosevelt County, Montana",30085,51023,"2,103"
+"Baltimore City, Maryland",24510,51032,"2,102"
+"Fayette County, Illinois",17051,51045,"2,100"
+"Lake County, Montana",30047,51045,"2,100"
+"Scioto County, Ohio",39145,51063,"2,099"
+"Etowah County, Alabama",1055,51104,"2,098"
+"Heard County, Georgia",13149,51108,"2,097"
+"Caddo County, Oklahoma",40015,51109,"2,095"
+"Pocahontas County, West Virginia",54075,51109,"2,095"
+"Furnas County, Nebraska",31065,51118,"2,094"
+"Washington County, Indiana",18175,51120,"2,093"
+"Person County, North Carolina",37145,51122,"2,092"
+"Jones County, South Dakota",46075,51125,"2,091"
+"Lynchburg City, Virginia",51680,51128,"2,090"
+"Colbert County, Alabama",1033,51154,"2,089"
+"Briscoe County, Texas",48045,51156,"2,088"
+"Franklin County, Tennessee",47051,51166,"2,087"
+"Cameron County, Pennsylvania",42023,51167,"2,086"
+"Menominee County, Michigan",26109,51190,"2,085"
+"Marshall County, Tennessee",47117,51208,"2,084"
+"Cherokee County, Oklahoma",40021,51209,"2,083"
+"Doddridge County, West Virginia",54017,51212,"2,082"
+"Miller County, Arkansas",5091,51218,"2,081"
+"Wythe County, Virginia",51197,51246,"2,080"
+"Jefferson Davis Parish, Louisiana",22053,51250,"2,079"
+"Hillsdale County, Michigan",26059,51253,"2,078"
+"Crawford County, Ohio",39033,51256,"2,077"
+"Aransas County, Texas",48007,51267,"2,076"
+"Rowan County, North Carolina",37159,51296,"2,075"
+"Noble County, Ohio",39121,51321,"2,074"
+"Decatur County, Iowa",19053,51322,"2,073"
+"Greene County, Illinois",17061,51327,"2,072"
+"Weakley County, Tennessee",47183,51329,"2,071"
+"Pulaski County, Indiana",18131,51345,"2,070"
+"Kay County, Oklahoma",40071,51352,"2,069"
+"Mason County, Texas",48319,51359,"2,068"
+"Beaufort County, North Carolina",37013,51361,"2,067"
+"Greenwood County, Kansas",20073,51364,"2,066"
+"Floyd County, Georgia",13115,51379,"2,065"
+"Randolph County, North Carolina",37151,51380,"2,064"
+"Kiowa County, Colorado",8061,51389,"2,063"
+"Saline County, Illinois",17165,51402,"2,062"
+"Hancock County, West Virginia",54029,51407,"2,061"
+"Caldwell County, Texas",48055,51424,"2,059"
+"Newaygo County, Michigan",26123,51424,"2,059"
+"Camas County, Idaho",16025,51442,"2,058"
+"Lincoln County, Oregon",41041,51461,"2,057"
+"Blaine County, Nebraska",31009,51477,"2,056"
+"Hopewell City, Virginia",51670,51489,"2,055"
+"Baker County, Georgia",13007,51495,"2,054"
+"Mason County, Michigan",26105,51500,"2,052"
+"Tucker County, West Virginia",54093,51500,"2,052"
+"Hardin County, Ohio",39065,51510,"2,051"
+"Potter County, Pennsylvania",42105,51541,"2,050"
+"Hardin County, Illinois",17069,51554,"2,049"
+"Refugio County, Texas",48391,51563,"2,048"
+"Jefferson County, Tennessee",47089,51570,"2,047"
+"Norfolk City, Virginia",51710,51578,"2,046"
+"Cherokee County, Kansas",20021,51579,"2,045"
+"Crittenden County, Kentucky",21055,51583,"2,044"
+"Elmore County, Idaho",16039,51593,"2,043"
+"Labette County, Kansas",20099,51597,"2,042"
+"Iberia Parish, Louisiana",22045,51613,"2,041"
+"Oktibbeha County, Mississippi",28105,51626,"2,040"
+"Hill County, Texas",48217,51677,"2,039"
+"Allen Parish, Louisiana",22003,51711,"2,038"
+"Mineral County, Montana",30061,51719,"2,037"
+"Pike County, Illinois",17149,51736,"2,036"
+"Oconee County, South Carolina",45073,51754,"2,035"
+"Marion County, Missouri",29127,51758,"2,034"
+"Fergus County, Montana",30027,51775,"2,033"
+"Gallatin County, Kentucky",21077,51782,"2,032"
+"Chilton County, Alabama",1021,51789,"2,031"
+"Bowie County, Texas",48037,51792,"2,030"
+"Wasco County, Oregon",41065,51796,"2,029"
+"Volusia County, Florida",12127,51810,"2,028"
+"Tyler County, West Virginia",54095,51823,"2,027"
+"Mayes County, Oklahoma",40097,51842,"2,025"
+"Moore County, Texas",48341,51842,"2,025"
+"Stevens County, Washington",53065,51852,"2,024"
+"Warren County, Mississippi",28149,51854,"2,023"
+"Chester County, Tennessee",47023,51859,"2,022"
+"Stanly County, North Carolina",37167,51864,"2,021"
+"Gratiot County, Michigan",26057,51865,"2,020"
+"East Feliciana Parish, Louisiana",22037,51866,"2,019"
+"Cumberland County, North Carolina",37051,51870,"2,018"
+"Franklin County, Illinois",17055,51873,"2,017"
+"St. Lucie County, Florida",12111,51874,"2,016"
+"San Juan County, Colorado",8111,51875,"2,015"
+"Adams County, Wisconsin",55001,51884,"2,014"
+"St. Martin Parish, Louisiana",22099,51897,"2,013"
+"Greer County, Oklahoma",40055,51901,"2,012"
+"Caldwell County, Kentucky",21033,51909,"2,011"
+"Day County, South Dakota",46037,51914,"2,010"
+"Delta County, Colorado",8029,51915,"2,009"
+"Delaware County, Indiana",18035,51935,"2,007"
+"Webster County, Missouri",29225,51935,"2,007"
+"Wood County, West Virginia",54107,51984,"2,006"
+"Churchill County, Nevada",32001,51985,"2,005"
+"Pueblo County, Colorado",8101,51986,"2,004"
+"Kimble County, Texas",48267,51995,"2,003"
+"Montezuma County, Colorado",8083,51997,"2,002"
+"Jefferson County, Ohio",39081,52024,"2,001"
+"Harrison County, Ohio",39067,52025,"1,999"
+"McLean County, Kentucky",21149,52025,"1,999"
+"Gentry County, Missouri",29075,52035,"1,998"
+"St. Joseph County, Michigan",26149,52038,"1,997"
+"Graves County, Kentucky",21083,52041,"1,996"
+"Columbia County, Florida",12023,52048,"1,995"
+"Chippewa County, Michigan",26033,52058,"1,994"
+"Greene County, Arkansas",5055,52080,"1,993"
+"Pontotoc County, Mississippi",28115,52081,"1,992"
+"Wahkiakum County, Washington",53069,52083,"1,991"
+"Baker County, Oregon",41001,52117,"1,990"
+"Bourbon County, Kansas",20011,52120,"1,989"
+"Delta County, Texas",48119,52157,"1,988"
+"Cass County, Iowa",19029,52165,"1,987"
+"Shelby County, Missouri",29205,52198,"1,986"
+"Gaston County, North Carolina",37071,52227,"1,985"
+"Forest County, Wisconsin",55041,52228,"1,984"
+"Cassia County, Idaho",16031,52229,"1,983"
+"Hancock County, Mississippi",28045,52230,"1,982"
+"Muskingum County, Ohio",39119,52232,"1,980"
+"Sioux County, Nebraska",31165,52232,"1,980"
+"Jasper County, Missouri",29097,52242,"1,979"
+"Alger County, Michigan",26003,52243,"1,977"
+"Marion County, Ohio",39101,52243,"1,977"
+"Blaine County, Oklahoma",40011,52250,"1,976"
+"Muskegon County, Michigan",26121,52263,"1,975"
+"Greeley County, Nebraska",31077,52283,"1,974"
+"Lyon County, Nevada",32019,52288,"1,973"
+"Cleburne County, Arkansas",5023,52289,"1,972"
+"Transylvania County, North Carolina",37175,52298,"1,971"
+"Calhoun County, Alabama",1015,52300,"1,970"
+"Brown County, Ohio",39015,52308,"1,969"
+"Newton County, Indiana",18111,52313,"1,968"
+"Wadena County, Minnesota",27159,52324,"1,967"
+"Johnson County, Illinois",17087,52337,"1,966"
+"Franklin County, Maine",23007,52366,"1,965"
+"Toole County, Montana",30101,52370,"1,964"
+"McIntosh County, Georgia",13191,52393,"1,963"
+"Fayette County, Pennsylvania",42051,52404,"1,962"
+"Buckingham County, Virginia",51029,52408,"1,961"
+"Franklin County, Mississippi",28037,52420,"1,960"
+"Del Norte County, California",6015,52427,"1,959"
+"Greene County, Georgia",13133,52431,"1,958"
+"Bonner County, Idaho",16017,52465,"1,957"
+"Twin Falls County, Idaho",16083,52471,"1,956"
+"Lawrence County, Illinois",17101,52513,"1,955"
+"Nodaway County, Missouri",29147,52536,"1,954"
+"Horry County, South Carolina",45051,52543,"1,953"
+"Custer County, Idaho",16037,52568,"1,952"
+"Liberty County, Florida",12077,52571,"1,951"
+"Kit Carson County, Colorado",8063,52575,"1,950"
+"Payette County, Idaho",16075,52585,"1,949"
+"Charlton County, Georgia",13049,52587,"1,948"
+"Treutlen County, Georgia",13283,52605,"1,947"
+"Vernon Parish, Louisiana",22115,52619,"1,946"
+"Sheridan County, Nebraska",31161,52632,"1,945"
+"Hitchcock County, Nebraska",31087,52639,"1,944"
+"Jefferson County, Pennsylvania",42065,52647,"1,943"
+"Kern County, California",6029,52649,"1,942"
+"Camden County, Missouri",29029,52685,"1,941"
+"Stewart County, Tennessee",47161,52695,"1,940"
+"Sullivan County, Tennessee",47163,52697,"1,938"
+"Wood County, Texas",48499,52697,"1,938"
+"Brown County, Kansas",20013,52701,"1,937"
+"Craighead County, Arkansas",5031,52715,"1,936"
+"Pike County, Missouri",29163,52727,"1,935"
+"Wayne County, Michigan",26163,52733,"1,934"
+"Greeley County, Kansas",20071,52750,"1,933"
+"Marion County, Indiana",18097,52771,"1,931"
+"Nottoway County, Virginia",51135,52771,"1,931"
+"Dickson County, Tennessee",47043,52779,"1,930"
+"Crawford County, Michigan",26039,52781,"1,929"
+"Garfield County, Nebraska",31071,52782,"1,927"
+"Maries County, Missouri",29125,52782,"1,927"
+"Tuscola County, Michigan",26157,52800,"1,926"
+"Henry County, Missouri",29083,52813,"1,925"
+"Jefferson County, Indiana",18077,52814,"1,924"
+"Garrard County, Kentucky",21079,52831,"1,923"
+"Pleasants County, West Virginia",54073,52833,"1,922"
+"Tripp County, South Dakota",46123,52836,"1,921"
+"Silver Bow County, Montana",30093,52842,"1,920"
+"Franklin County, North Carolina",37069,52848,"1,919"
+"Dickens County, Texas",48125,52857,"1,918"
+"Pasquotank County, North Carolina",37139,52861,"1,917"
+"Tangipahoa Parish, Louisiana",22105,52864,"1,916"
+"Houston County, Alabama",1069,52870,"1,915"
+"Sequatchie County, Tennessee",47153,52880,"1,914"
+"Carroll County, Georgia",13045,52892,"1,913"
+"Allegany County, New York",36003,52942,"1,912"
+"Ballard County, Kentucky",21007,52951,"1,911"
+"De Soto Parish, Louisiana",22031,53000,"1,910"
+"Henry County, Indiana",18065,53017,"1,909"
+"Lincoln Parish, Louisiana",22061,53037,"1,908"
+"San Jacinto County, Texas",48407,53062,"1,907"
+"Morgan County, Colorado",8087,53067,"1,906"
+"Vigo County, Indiana",18167,53070,"1,905"
+"Florence County, South Carolina",45041,53079,"1,904"
+"Wharton County, Texas",48481,53089,"1,903"
+"Wabash County, Indiana",18169,53104,"1,902"
+"Cumberland County, Virginia",51049,53115,"1,901"
+"Langlade County, Wisconsin",55067,53145,"1,900"
+"Jim Wells County, Texas",48249,53160,"1,899"
+"Anderson County, South Carolina",45007,53169,"1,898"
+"Muscogee County, Georgia",13215,53171,"1,897"
+"Union County, Illinois",17181,53203,"1,896"
+"Hopkins County, Texas",48223,53205,"1,895"
+"Knox County, Illinois",17095,53229,"1,894"
+"Alamance County, North Carolina",37001,53234,"1,893"
+"Boyle County, Kentucky",21021,53236,"1,892"
+"Iron County, Utah",49021,53240,"1,891"
+"Wapello County, Iowa",19179,53242,"1,890"
+"Tyler County, Texas",48457,53246,"1,889"
+"Mills County, Texas",48333,53265,"1,887"
+"Pottawatomie County, Oklahoma",40125,53265,"1,887"
+"Allen County, Kentucky",21003,53270,"1,886"
+"Broadwater County, Montana",30007,53275,"1,885"
+"Caddo Parish, Louisiana",22017,53284,"1,882"
+"Erath County, Texas",48143,53284,"1,882"
+"Hocking County, Ohio",39073,53284,"1,882"
+"Aitkin County, Minnesota",27001,53286,"1,881"
+"Cass County, Indiana",18017,53307,"1,880"
+"Calhoun County, Michigan",26025,53315,"1,879"
+"Nash County, North Carolina",37127,53329,"1,878"
+"Genesee County, Michigan",26049,53333,"1,877"
+"Phelps County, Missouri",29161,53339,"1,876"
+"Prince Edward County, Virginia",51147,53340,"1,875"
+"Jones County, Texas",48253,53341,"1,874"
+"Gilchrist County, Florida",12041,53348,"1,873"
+"Montague County, Texas",48337,53354,"1,872"
+"King and Queen County, Virginia",51097,53365,"1,871"
+"Jennings County, Indiana",18079,53379,"1,870"
+"Milam County, Texas",48331,53383,"1,869"
+"Brewster County, Texas",48043,53395,"1,868"
+"Essex County, Virginia",51057,53403,"1,867"
+"Humboldt County, California",6023,53407,"1,866"
+"Tate County, Mississippi",28137,53416,"1,865"
+"Throckmorton County, Texas",48447,53438,"1,864"
+"Jackson County, Oregon",41029,53441,"1,863"
+"Haywood County, North Carolina",37087,53449,"1,862"
+"Love County, Oklahoma",40085,53470,"1,861"
+"Polk County, North Carolina",37149,53479,"1,860"
+"Pickens County, South Carolina",45077,53486,"1,859"
+"Clearfield County, Pennsylvania",42033,53517,"1,858"
+"Peach County, Georgia",13225,53529,"1,857"
+"Dickinson County, Michigan",26043,53537,"1,856"
+"Pine County, Minnesota",27115,53538,"1,855"
+"Bradley County, Tennessee",47011,53572,"1,854"
+"Bates County, Missouri",29013,53598,"1,853"
+"Audrain County, Missouri",29007,53610,"1,852"
+"Wheeler County, Nebraska",31183,53611,"1,851"
+"Haralson County, Georgia",13143,53612,"1,850"
+"Lincoln County, Nevada",32017,53615,"1,849"
+"Clay County, Illinois",17025,53631,"1,848"
+"McKean County, Pennsylvania",42083,53642,"1,847"
+"Nacogdoches County, Texas",48347,53643,"1,846"
+"Robertson County, Texas",48395,53668,"1,845"
+"Pittsburg County, Oklahoma",40121,53670,"1,844"
+"Georgetown County, South Carolina",45043,53688,"1,843"
+"Long County, Georgia",13183,53704,"1,842"
+"Henderson County, Kentucky",21101,53710,"1,841"
+"Butts County, Georgia",13035,53711,"1,840"
+"Lancaster County, South Carolina",45057,53739,"1,839"
+"Fisher County, Texas",48151,53750,"1,837"
+"Garfield County, Washington",53023,53750,"1,837"
+"Huron County, Michigan",26063,53806,"1,836"
+"Kings County, New York",36047,53808,"1,835"
+"Calloway County, Kentucky",21035,53815,"1,834"
+"Custer County, Oklahoma",40039,53833,"1,833"
+"Morgan County, West Virginia",54065,53838,"1,832"
+"Wilbarger County, Texas",48487,53852,"1,831"
+"Union County, Oregon",41061,53855,"1,830"
+"Garza County, Texas",48169,53877,"1,829"
+"Vermilion County, Illinois",17183,53880,"1,828"
+"Branch County, Michigan",26023,53884,"1,827"
+"Davidson County, North Carolina",37057,53906,"1,826"
+"Ross County, Ohio",39141,53908,"1,825"
+"Foard County, Texas",48155,53917,"1,824"
+"Cattaraugus County, New York",36009,53921,"1,823"
+"Clearwater County, Minnesota",27029,53929,"1,822"
+"Mecosta County, Michigan",26107,53944,"1,821"
+"Spartanburg County, South Carolina",45083,53959,"1,820"
+"Grays Harbor County, Washington",53027,53978,"1,819"
+"Jefferson County, Nebraska",31095,53979,"1,818"
+"Edgar County, Illinois",17045,53981,"1,817"
+"Kimball County, Nebraska",31105,53992,"1,816"
+"Hansford County, Texas",48195,53997,"1,815"
+"Boyd County, Kentucky",21019,53998,"1,814"
+"Owen County, Indiana",18119,54017,"1,813"
+"LaGrange County, Indiana",18087,54020,"1,812"
+"Marion County, Illinois",17121,54028,"1,811"
+"Cass County, Minnesota",27021,54032,"1,810"
+"Richland County, Ohio",39139,54044,"1,809"
+"Greene County, Mississippi",28041,54071,"1,808"
+"Dade County, Georgia",13083,54080,"1,807"
+"Montgomery County, Iowa",19137,54088,"1,806"
+"Jackson County, Illinois",17077,54095,"1,804"
+"Warren County, Illinois",17187,54095,"1,804"
+"Washington County, Tennessee",47179,54100,"1,803"
+"Lewis County, Missouri",29111,54117,"1,802"
+"Washburn County, Wisconsin",55129,54127,"1,801"
+"Taylor County, Iowa",19173,54128,"1,800"
+"Chautauqua County, New York",36013,54131,"1,799"
+"Kershaw County, South Carolina",45055,54150,"1,798"
+"Payne County, Oklahoma",40119,54152,"1,797"
+"Worth County, Missouri",29227,54167,"1,796"
+"Clark County, Wisconsin",55019,54175,"1,795"
+"Price County, Wisconsin",55099,54178,"1,794"
+"Rusk County, Texas",48401,54197,"1,793"
+"Huntingdon County, Pennsylvania",42061,54210,"1,791"
+"Saginaw County, Michigan",26145,54210,"1,791"
+"Marinette County, Wisconsin",55075,54213,"1,790"
+"Mobile County, Alabama",1097,54215,"1,789"
+"Iron County, Wisconsin",55051,54219,"1,788"
+"Hancock County, Kentucky",21091,54224,"1,787"
+"Giles County, Virginia",51071,54230,"1,786"
+"Live Oak County, Texas",48297,54250,"1,785"
+"Morris County, Kansas",20127,54265,"1,784"
+"Mahoning County, Ohio",39099,54282,"1,783"
+"Montrose County, Colorado",8085,54332,"1,782"
+"Stanton County, Kansas",20187,54352,"1,781"
+"Richmond County, Virginia",51159,54375,"1,779"
+"White County, Arkansas",5145,54375,"1,779"
+"Juneau County, Wisconsin",55057,54393,"1,778"
+"Pawnee County, Oklahoma",40117,54398,"1,777"
+"McLennan County, Texas",48309,54402,"1,776"
+"Fulton County, Indiana",18049,54405,"1,775"
+"Madison County, Virginia",51113,54412,"1,774"
+"Hill County, Montana",30041,54414,"1,773"
+"Graham County, Arizona",4009,54424,"1,772"
+"Marion County, West Virginia",54049,54437,"1,771"
+"Stephens County, Texas",48429,54444,"1,770"
+"Breckinridge County, Kentucky",21027,54457,"1,769"
+"Grant County, Washington",53025,54466,"1,768"
+"Holt County, Missouri",29087,54469,"1,767"
+"Yavapai County, Arizona",4025,54475,"1,766"
+"Charlotte County, Florida",12015,54478,"1,765"
+"St. Lawrence County, New York",36089,54481,"1,764"
+"Pulaski County, Missouri",29169,54487,"1,763"
+"Miner County, South Dakota",46097,54500,"1,762"
+"Cowley County, Kansas",20035,54501,"1,761"
+"Republic County, Kansas",20157,54508,"1,760"
+"Decatur County, Kansas",20039,54511,"1,758"
+"Scotts Bluff County, Nebraska",31157,54511,"1,758"
+"Trousdale County, Tennessee",47169,54523,"1,757"
+"Venango County, Pennsylvania",42121,54534,"1,756"
+"Lee County, Mississippi",28081,54539,"1,755"
+"Portsmouth City, Virginia",51740,54547,"1,754"
+"Ravalli County, Montana",30081,54549,"1,753"
+"Williams County, Ohio",39171,54552,"1,752"
+"Fannin County, Texas",48147,54563,"1,751"
+"Greene County, Missouri",29077,54576,"1,750"
+"Caldwell County, Missouri",29025,54589,"1,749"
+"Jefferson County, Texas",48245,54616,"1,748"
+"Osborne County, Kansas",20141,54628,"1,747"
+"Webster County, Nebraska",31181,54635,"1,746"
+"Creek County, Oklahoma",40037,54639,"1,745"
+"Roane County, Tennessee",47145,54642,"1,744"
+"Fountain County, Indiana",18045,54649,"1,743"
+"Humphreys County, Tennessee",47085,54650,"1,742"
+"Orleans County, Vermont",50019,54658,"1,741"
+"Marshall County, West Virginia",54051,54659,"1,740"
+"Mercer County, Kentucky",21167,54661,"1,739"
+"Waldo County, Maine",23027,54665,"1,738"
+"Cabell County, West Virginia",54011,54671,"1,737"
+"Gove County, Kansas",20063,54688,"1,736"
+"Pondera County, Montana",30073,54701,"1,735"
+"Delta County, Michigan",26041,54702,"1,734"
+"Sheridan County, North Dakota",38083,54712,"1,733"
+"Linn County, Oregon",41043,54713,"1,732"
+"Lake and Peninsula Borough, Alaska",2164,54728,"1,731"
+"Flagler County, Florida",12035,54729,"1,729"
+"Van Zandt County, Texas",48467,54729,"1,729"
+"Morton County, Kansas",20129,54732,"1,728"
+"Greenup County, Kentucky",21089,54749,"1,727"
+"Petroleum County, Montana",30069,54750,"1,726"
+"Catawba County, North Carolina",37035,54802,"1,725"
+"Darke County, Ohio",39037,54843,"1,724"
+"Harnett County, North Carolina",37085,54864,"1,723"
+"Las Animas County, Colorado",8071,54871,"1,722"
+"Dakota County, Nebraska",31043,54887,"1,721"
+"Morrill County, Nebraska",31123,54893,"1,720"
+"Edwards County, Illinois",17047,54894,"1,719"
+"Anderson County, Tennessee",47001,54898,"1,718"
+"Bosque County, Texas",48035,54903,"1,717"
+"Smith County, Tennessee",47159,54916,"1,716"
+"Preston County, West Virginia",54077,54931,"1,715"
+"Monroe County, Missouri",29137,54935,"1,714"
+"Sevier County, Utah",49041,54956,"1,713"
+"Ford County, Kansas",20057,54960,"1,712"
+"Musselshell County, Montana",30065,54976,"1,711"
+"Crawford County, Pennsylvania",42039,54978,"1,710"
+"Pamlico County, North Carolina",37137,54986,"1,709"
+"Highland County, Virginia",51091,55000,"1,707"
+"Montgomery County, New York",36057,55000,"1,707"
+"Asotin County, Washington",53003,55008,"1,706"
+"Van Buren County, Michigan",26159,55013,"1,705"
+"Morrow County, Oregon",41049,55014,"1,704"
+"Lee County, North Carolina",37105,55015,"1,703"
+"Wallowa County, Oregon",41063,55027,"1,702"
+"Houghton County, Michigan",26061,55037,"1,701"
+"Ralls County, Missouri",29173,55051,"1,700"
+"Charles Mix County, South Dakota",46023,55078,"1,699"
+"DeKalb County, Missouri",29063,55087,"1,698"
+"Reeves County, Texas",48389,55112,"1,697"
+"Northumberland County, Pennsylvania",42097,55138,"1,696"
+"Madison County, Indiana",18095,55141,"1,695"
+"Deer Lodge County, Montana",30023,55146,"1,694"
+"Somerset County, Pennsylvania",42111,55150,"1,693"
+"Boyd County, Nebraska",31015,55156,"1,692"
+"McMullen County, Texas",48311,55167,"1,691"
+"Garrett County, Maryland",24023,55188,"1,689"
+"Smith County, Kansas",20183,55188,"1,689"
+"Russell County, Kansas",20167,55197,"1,688"
+"Clark County, Ohio",39023,55198,"1,687"
+"Antrim County, Michigan",26009,55199,"1,686"
+"Sullivan County, Indiana",18153,55209,"1,685"
+"Jasper County, Texas",48241,55216,"1,684"
+"Trumbull County, Ohio",39155,55228,"1,683"
+"Mendocino County, California",6045,55233,"1,682"
+"Gates County, North Carolina",37073,55237,"1,681"
+"Crawford County, Kansas",20037,55243,"1,680"
+"Sullivan County, Pennsylvania",42113,55246,"1,679"
+"Gray County, Texas",48179,55249,"1,678"
+"Lincoln County, Oklahoma",40081,55258,"1,677"
+"Dyer County, Tennessee",47045,55264,"1,676"
+"Des Moines County, Iowa",19057,55297,"1,675"
+"Henry County, Alabama",1067,55335,"1,674"
+"Texas County, Oklahoma",40139,55339,"1,673"
+"Wayne County, Illinois",17191,55345,"1,672"
+"Pinal County, Arizona",4021,55362,"1,671"
+"Freestone County, Texas",48161,55368,"1,670"
+"Lawrence County, Indiana",18093,55376,"1,669"
+"Coos County, New Hampshire",33007,55385,"1,668"
+"Aurora County, South Dakota",46003,55395,"1,667"
+"Allegany County, Maryland",24001,55405,"1,666"
+"Yuma County, Colorado",8125,55410,"1,665"
+"Kerr County, Texas",48265,55456,"1,664"
+"Cochise County, Arizona",4003,55471,"1,663"
+"Knox County, Indiana",18083,55475,"1,662"
+"Bedford County, Pennsylvania",42009,55483,"1,660"
+"Pasco County, Florida",12101,55483,"1,660"
+"Clark County, Missouri",29045,55496,"1,659"
+"Madison County, Tennessee",47113,55519,"1,658"
+"Hopkins County, Kentucky",21107,55522,"1,657"
+"Blount County, Alabama",1009,55530,"1,655"
+"Orleans County, New York",36073,55530,"1,655"
+"Waynesboro City, Virginia",51820,55540,"1,654"
+"Lewis County, Washington",53041,55543,"1,653"
+"Elkhart County, Indiana",18039,55551,"1,652"
+"Keokuk County, Iowa",19107,55571,"1,651"
+"Barron County, Wisconsin",55005,55577,"1,650"
+"Putnam County, Georgia",13237,55587,"1,649"
+"Livingston County, Missouri",29117,55596,"1,648"
+"Concho County, Texas",48095,55600,"1,646"
+"Rooks County, Kansas",20163,55600,"1,646"
+"Monona County, Iowa",19133,55602,"1,645"
+"Stanislaus County, California",6099,55611,"1,644"
+"Judith Basin County, Montana",30045,55625,"1,643"
+"Henry County, Kentucky",21103,55642,"1,642"
+"Ringgold County, Iowa",19159,55646,"1,641"
+"Clarion County, Pennsylvania",42031,55654,"1,640"
+"Sedgwick County, Colorado",8115,55655,"1,639"
+"Gasconade County, Missouri",29073,55669,"1,638"
+"Tioga County, Pennsylvania",42117,55683,"1,637"
+"Coles County, Illinois",17029,55693,"1,636"
+"Lee County, Iowa",19111,55694,"1,635"
+"Florence County, Wisconsin",55037,55714,"1,633"
+"Lincoln County, Colorado",8073,55714,"1,633"
+"Appanoose County, Iowa",19007,55727,"1,632"
+"Sutton County, Texas",48435,55743,"1,631"
+"Tuscarawas County, Ohio",39157,55747,"1,630"
+"Shasta County, California",6089,55749,"1,629"
+"Garfield County, Montana",30033,55750,"1,628"
+"Glynn County, Georgia",13127,55756,"1,627"
+"Harrisonburg City, Virginia",51660,55774,"1,626"
+"Dawson County, Nebraska",31047,55779,"1,625"
+"Bracken County, Kentucky",21023,55801,"1,624"
+"Trigg County, Kentucky",21221,55819,"1,623"
+"Columbiana County, Ohio",39029,55826,"1,622"
+"Jackson County, Colorado",8057,55833,"1,621"
+"Delaware County, New York",36025,55835,"1,620"
+"Fulton County, New York",36035,55841,"1,619"
+"Beltrami County, Minnesota",27007,55846,"1,618"
+"Armstrong County, Pennsylvania",42005,55861,"1,617"
+"Richland County, Illinois",17159,55867,"1,616"
+"Carroll County, Missouri",29033,55876,"1,615"
+"Jefferson County, Idaho",16051,55892,"1,614"
+"Dallas County, Texas",48113,55897,"1,613"
+"Marquette County, Wisconsin",55077,55906,"1,612"
+"Callahan County, Texas",48059,55912,"1,611"
+"Lake County, Florida",12069,55913,"1,610"
+"Washington County, Virginia",51191,55931,"1,609"
+"Bourbon County, Kentucky",21017,55933,"1,607"
+"Cambria County, Pennsylvania",42021,55933,"1,607"
+"Clinton County, Ohio",39027,55935,"1,606"
+"Pontotoc County, Oklahoma",40123,55970,"1,605"
+"Lucas County, Ohio",39095,55978,"1,604"
+"Graham County, Kansas",20065,55991,"1,603"
+"Belmont County, Ohio",39013,55993,"1,602"
+"Floyd County, Iowa",19067,56004,"1,601"
+"Richland County, Wisconsin",55103,56013,"1,600"
+"Potter County, South Dakota",46107,56027,"1,599"
+"Radford City, Virginia",51750,56032,"1,598"
+"Lawrence County, Ohio",39087,56054,"1,597"
+"Stephenson County, Illinois",17177,56065,"1,596"
+"Stephens County, Oklahoma",40137,56070,"1,595"
+"Milwaukee County, Wisconsin",55079,56079,"1,594"
+"Atchison County, Kansas",20005,56082,"1,593"
+"Custer County, Nebraska",31041,56090,"1,592"
+"Rockdale County, Georgia",13247,56136,"1,591"
+"Morgan County, Georgia",13211,56152,"1,590"
+"Montgomery County, Alabama",1101,56169,"1,589"
+"Nuckolls County, Nebraska",31129,56173,"1,588"
+"Allen County, Ohio",39003,56195,"1,587"
+"Shelby County, Illinois",17173,56199,"1,586"
+"Lauderdale County, Alabama",1077,56200,"1,585"
+"Cass County, Michigan",26027,56206,"1,584"
+"Phillips County, Kansas",20147,56208,"1,583"
+"Klickitat County, Washington",53039,56210,"1,582"
+"Seneca County, Ohio",39147,56211,"1,581"
+"Logan County, Colorado",8075,56216,"1,580"
+"Washington County, Kansas",20201,56228,"1,579"
+"Pitt County, North Carolina",37147,56239,"1,578"
+"Cimarron County, Oklahoma",40025,56250,"1,575"
+"Lexington City, Virginia",51678,56250,"1,575"
+"McCone County, Montana",30055,56250,"1,575"
+"Carroll County, Ohio",39019,56267,"1,574"
+"Pender County, North Carolina",37141,56277,"1,573"
+"Finney County, Kansas",20055,56287,"1,572"
+"Lyman County, South Dakota",46085,56302,"1,571"
+"Antelope County, Nebraska",31003,56304,"1,570"
+"Steuben County, Indiana",18151,56318,"1,569"
+"Preble County, Ohio",39135,56321,"1,568"
+"Miami County, Indiana",18103,56328,"1,566"
+"Pike County, Indiana",18125,56328,"1,566"
+"Mason County, Illinois",17125,56329,"1,565"
+"Greene County, Indiana",18055,56361,"1,564"
+"Newton County, Georgia",13217,56370,"1,563"
+"Webster County, Iowa",19187,56373,"1,562"
+"Jackson County, West Virginia",54035,56384,"1,561"
+"Coryell County, Texas",48099,56402,"1,560"
+"Bradford County, Florida",12007,56406,"1,559"
+"Lawrence County, Pennsylvania",42073,56420,"1,558"
+"Terrebonne Parish, Louisiana",22109,56429,"1,557"
+"Anderson County, Kansas",20003,56433,"1,556"
+"Isabella County, Michigan",26073,56435,"1,555"
+"Dale County, Alabama",1045,56441,"1,554"
+"Orange County, Florida",12095,56447,"1,553"
+"Oglethorpe County, Georgia",13221,56449,"1,552"
+"Fremont County, Idaho",16043,56476,"1,551"
+"Jeff Davis County, Texas",48243,56477,"1,550"
+"Itasca County, Minnesota",27061,56479,"1,549"
+"Henderson County, Illinois",17071,56482,"1,548"
+"Morgan County, Alabama",1103,56488,"1,547"
+"Colusa County, California",6011,56491,"1,546"
+"Bath County, Virginia",51017,56510,"1,545"
+"Campbell County, Virginia",51031,56532,"1,544"
+"Marion County, Oregon",41047,56537,"1,543"
+"Warren County, Pennsylvania",42123,56540,"1,542"
+"Hamilton County, Texas",48193,56543,"1,541"
+"Mercer County, Pennsylvania",42085,56546,"1,540"
+"Craven County, North Carolina",37049,56550,"1,539"
+"St. John the Baptist Parish, Louisiana",22095,56556,"1,538"
+"Young County, Texas",48503,56582,"1,537"
+"Christian County, Illinois",17021,56586,"1,536"
+"Marshall County, Kentucky",21157,56588,"1,535"
+"Cottonwood County, Minnesota",27033,56596,"1,534"
+"Fulton County, Illinois",17057,56608,"1,533"
+"Allamakee County, Iowa",19005,56614,"1,532"
+"Martin County, Indiana",18101,56629,"1,531"
+"Crawford County, Iowa",19047,56640,"1,530"
+"Brule County, South Dakota",46015,56646,"1,529"
+"Somervell County, Texas",48425,56648,"1,528"
+"Jefferson County, Illinois",17081,56652,"1,527"
+"Hall County, Nebraska",31079,56654,"1,526"
+"Wichita County, Texas",48485,56664,"1,525"
+"Kanabec County, Minnesota",27065,56675,"1,523"
+"Waushara County, Wisconsin",55137,56675,"1,523"
+"Harrison County, Texas",48203,56688,"1,522"
+"Harper County, Kansas",20077,56689,"1,521"
+"Washington County, Colorado",8121,56691,"1,520"
+"Madison County, Kentucky",21151,56697,"1,519"
+"Floyd County, Virginia",51063,56724,"1,517"
+"Monroe County, Iowa",19135,56724,"1,517"
+"Taylor County, Wisconsin",55119,56726,"1,516"
+"Childress County, Texas",48075,56728,"1,515"
+"Emmons County, North Dakota",38029,56736,"1,514"
+"Franklin County, Virginia",51067,56742,"1,513"
+"Clay County, Indiana",18021,56771,"1,512"
+"Calcasieu Parish, Louisiana",22019,56772,"1,511"
+"Taylor County, Texas",48441,56775,"1,510"
+"Jackson County, Indiana",18071,56778,"1,509"
+"Iberville Parish, Louisiana",22047,56797,"1,508"
+"Bartow County, Georgia",13015,56799,"1,507"
+"Bear Lake County, Idaho",16007,56821,"1,506"
+"Rich County, Utah",49033,56827,"1,505"
+"Montgomery County, Indiana",18107,56838,"1,504"
+"Clark County, Illinois",17023,56855,"1,503"
+"Carter County, Oklahoma",40019,56856,"1,502"
+"Colorado County, Texas",48089,56858,"1,501"
+"Benton County, Indiana",18007,56875,"1,499"
+"Wheeler County, Texas",48483,56875,"1,499"
+"Fulton County, Pennsylvania",42057,56886,"1,498"
+"Penobscot County, Maine",23019,56891,"1,497"
+"Pope County, Illinois",17151,56908,"1,496"
+"Butte County, California",6007,56914,"1,495"
+"Fayette County, Iowa",19065,56935,"1,494"
+"Goshen County, Wyoming",56015,56948,"1,493"
+"Hancock County, Illinois",17067,56954,"1,492"
+"Washington County, Arkansas",5143,56960,"1,491"
+"Lavaca County, Texas",48285,56971,"1,489"
+"Perry County, Indiana",18123,56971,"1,489"
+"Benzie County, Michigan",26019,56976,"1,488"
+"Shiawassee County, Michigan",26155,56978,"1,487"
+"Granite County, Montana",30039,56979,"1,486"
+"Lumpkin County, Georgia",13187,56981,"1,485"
+"Granville County, North Carolina",37077,56988,"1,484"
+"Montgomery County, Ohio",39113,56990,"1,483"
+"Atascosa County, Texas",48013,57006,"1,482"
+"Edwards County, Kansas",20047,57008,"1,481"
+"Nance County, Nebraska",31125,57012,"1,480"
+"Walker County, Texas",48471,57017,"1,479"
+"Comanche County, Oklahoma",40031,57040,"1,478"
+"Escambia County, Florida",12033,57046,"1,477"
+"Gregg County, Texas",48183,57050,"1,476"
+"Grant County, Arkansas",5053,57052,"1,475"
+"Douglas County, Washington",53017,57069,"1,473"
+"Kanawha County, West Virginia",54039,57069,"1,473"
+"Arthur County, Nebraska",31005,57083,"1,472"
+"Chenango County, New York",36017,57090,"1,471"
+"Barrow County, Georgia",13013,57096,"1,470"
+"Crawford County, Wisconsin",55023,57098,"1,469"
+"Brunswick County, North Carolina",37019,57126,"1,468"
+"Haakon County, South Dakota",46055,57143,"1,467"
+"Pulaski County, Virginia",51155,57148,"1,466"
+"Daviess County, Indiana",18027,57154,"1,465"
+"Osage County, Oklahoma",40113,57170,"1,464"
+"Umatilla County, Oregon",41059,57175,"1,463"
+"Rush County, Indiana",18139,57176,"1,462"
+"Lucas County, Iowa",19117,57183,"1,460"
+"Vermilion Parish, Louisiana",22113,57183,"1,460"
+"McCracken County, Kentucky",21145,57186,"1,459"
+"Franklin County, Texas",48159,57188,"1,458"
+"Todd County, Minnesota",27153,57191,"1,457"
+"Rush County, Kansas",20165,57209,"1,456"
+"Greene County, Pennsylvania",42059,57216,"1,455"
+"Juniata County, Pennsylvania",42067,57222,"1,454"
+"Huntington County, Indiana",18069,57244,"1,452"
+"Valley County, Montana",30105,57244,"1,452"
+"Dundy County, Nebraska",31057,57250,"1,450"
+"Shawano County, Wisconsin",55115,57250,"1,450"
+"Cotton County, Oklahoma",40033,57260,"1,449"
+"Snyder County, Pennsylvania",42109,57263,"1,448"
+"Red Willow County, Nebraska",31145,57283,"1,447"
+"Jefferson County, New York",36045,57300,"1,446"
+"Sandusky County, Ohio",39143,57303,"1,445"
+"Huron County, Ohio",39077,57309,"1,444"
+"Walton County, Florida",12131,57318,"1,443"
+"Bannock County, Idaho",16005,57327,"1,442"
+"Decatur County, Indiana",18031,57332,"1,441"
+"Caledonia County, Vermont",50005,57346,"1,440"
+"San Patricio County, Texas",48409,57355,"1,439"
+"Meade County, Kentucky",21163,57377,"1,438"
+"Perkins County, South Dakota",46105,57386,"1,437"
+"Aiken County, South Carolina",45003,57396,"1,436"
+"Lyon County, Kentucky",21143,57405,"1,435"
+"Roberts County, South Dakota",46109,57417,"1,434"
+"Garfield County, Oklahoma",40047,57419,"1,433"
+"Dillingham Census Area, Alaska",2070,57434,"1,432"
+"Dinwiddie County, Virginia",51053,57437,"1,431"
+"Winchester City, Virginia",51840,57444,"1,430"
+"Pima County, Arizona",4019,57457,"1,429"
+"Mahaska County, Iowa",19123,57459,"1,428"
+"Otsego County, Michigan",26137,57469,"1,427"
+"Williamson County, Illinois",17199,57470,"1,426"
+"Frontier County, Nebraska",31063,57500,"1,424"
+"Hayes County, Nebraska",31085,57500,"1,424"
+"Steuben County, New York",36101,57508,"1,423"
+"Reno County, Kansas",20155,57512,"1,422"
+"Atchison County, Missouri",29005,57526,"1,421"
+"Cumberland County, New Jersey",34011,57550,"1,420"
+"Cooper County, Missouri",29053,57568,"1,419"
+"Montgomery County, Tennessee",47125,57572,"1,418"
+"Greenlee County, Arizona",4011,57574,"1,417"
+"Clark County, Kansas",20025,57576,"1,416"
+"Woodbury County, Iowa",19193,57590,"1,415"
+"Lee County, Florida",12071,57627,"1,414"
+"Liberty County, Texas",48291,57634,"1,413"
+"Bay County, Florida",12005,57635,"1,412"
+"Jackson County, Wisconsin",55053,57637,"1,411"
+"George County, Mississippi",28039,57639,"1,410"
+"Berrien County, Michigan",26021,57640,"1,409"
+"Indiana County, Pennsylvania",42063,57642,"1,408"
+"Ionia County, Michigan",26067,57660,"1,407"
+"Washington County, Ohio",39167,57662,"1,406"
+"Pawnee County, Nebraska",31133,57692,"1,405"
+"Shelby County, Tennessee",47157,57714,"1,404"
+"Upton County, Texas",48461,57717,"1,403"
+"Union County, Iowa",19175,57736,"1,402"
+"Rains County, Texas",48379,57740,"1,401"
+"Lane County, Oregon",41039,57766,"1,400"
+"Karnes County, Texas",48255,57780,"1,399"
+"Dodge County, Nebraska",31053,57788,"1,397"
+"Perry County, Illinois",17145,57788,"1,397"
+"Franklin County, New York",36033,57790,"1,396"
+"Monroe County, Georgia",13207,57814,"1,395"
+"Bay County, Michigan",26017,57819,"1,393"
+"Blair County, Pennsylvania",42013,57819,"1,393"
+"Clinton County, Pennsylvania",42035,57823,"1,391"
+"Smith County, Texas",48423,57823,"1,391"
+"Columbia County, Pennsylvania",42037,57829,"1,389"
+"Schuyler County, Illinois",17169,57829,"1,389"
+"Adair County, Missouri",29001,57837,"1,388"
+"Hunt County, Texas",48231,57882,"1,387"
+"Howard County, Missouri",29089,57925,"1,386"
+"Cowlitz County, Washington",53015,57938,"1,385"
+"Sanpete County, Utah",49039,57952,"1,384"
+"Grimes County, Texas",48185,57973,"1,383"
+"Mille Lacs County, Minnesota",27095,57984,"1,382"
+"Harrison County, West Virginia",54033,58008,"1,381"
+"Van Buren County, Iowa",19177,58011,"1,380"
+"Moultrie County, Illinois",17139,58021,"1,379"
+"Murray County, Oklahoma",40099,58024,"1,378"
+"Butte County, South Dakota",46019,58026,"1,377"
+"Newport News City, Virginia",51700,58040,"1,376"
+"Pipestone County, Minnesota",27117,58051,"1,375"
+"Vanderburgh County, Indiana",18163,58062,"1,374"
+"Upshur County, Texas",48459,58069,"1,373"
+"Franklin County, Idaho",16041,58074,"1,372"
+"Powder River County, Montana",30075,58077,"1,371"
+"Koochiching County, Minnesota",27071,58078,"1,370"
+"Cascade County, Montana",30013,58102,"1,369"
+"St. Joseph County, Indiana",18141,58116,"1,368"
+"Rawlins County, Kansas",20153,58125,"1,367"
+"Washington County, Utah",49053,58145,"1,366"
+"Linn County, Kansas",20107,58151,"1,365"
+"Gilliam County, Oregon",41021,58162,"1,364"
+"Johnson County, Nebraska",31097,58164,"1,363"
+"Moore County, Tennessee",47127,58217,"1,362"
+"Bayfield County, Wisconsin",55007,58218,"1,361"
+"Ashland County, Ohio",39005,58242,"1,359"
+"Phillips County, Colorado",8095,58242,"1,359"
+"Shackelford County, Texas",48417,58272,"1,358"
+"Union County, Indiana",18161,58286,"1,357"
+"Valley County, Idaho",16085,58299,"1,356"
+"Cass County, Illinois",17017,58308,"1,355"
+"Stonewall County, Texas",48433,58320,"1,354"
+"Callaway County, Missouri",29027,58327,"1,353"
+"Clarke County, Iowa",19039,58333,"1,352"
+"Bell County, Texas",48027,58341,"1,351"
+"Faribault County, Minnesota",27043,58343,"1,350"
+"White County, Illinois",17193,58353,"1,349"
+"Buchanan County, Missouri",29021,58355,"1,348"
+"Keith County, Nebraska",31101,58371,"1,347"
+"Jackson County, Mississippi",28059,58374,"1,346"
+"Guilford County, North Carolina",37081,58378,"1,345"
+"Buncombe County, North Carolina",37021,58388,"1,344"
+"Juab County, Utah",49023,58389,"1,343"
+"Chatham County, Georgia",13051,58394,"1,342"
+"Wayne County, Iowa",19185,58397,"1,341"
+"Lampasas County, Texas",48281,58410,"1,340"
+"LaPorte County, Indiana",18091,58424,"1,339"
+"Platte County, Wyoming",56031,58427,"1,338"
+"Henderson County, North Carolina",37089,58428,"1,337"
+"Jackson County, Michigan",26075,58432,"1,336"
+"Schuylkill County, Pennsylvania",42107,58441,"1,335"
+"Indian River County, Florida",12061,58448,"1,334"
+"Brooke County, West Virginia",54009,58460,"1,333"
+"Bonneville County, Idaho",16019,58500,"1,332"
+"Calhoun County, Iowa",19025,58512,"1,331"
+"Jackson County, Iowa",19097,58516,"1,330"
+"Sutter County, California",6101,58524,"1,329"
+"Clinton County, Indiana",18023,58546,"1,328"
+"Barton County, Kansas",20009,58558,"1,326"
+"Hall County, Georgia",13139,58558,"1,326"
+"Lubbock County, Texas",48303,58569,"1,325"
+"Deuel County, Nebraska",31049,58571,"1,324"
+"Iroquois County, Illinois",17075,58577,"1,323"
+"Nueces County, Texas",48355,58589,"1,322"
+"Buena Vista County, Iowa",19021,58604,"1,321"
+"Carbon County, Pennsylvania",42025,58605,"1,319"
+"Paulding County, Ohio",39125,58605,"1,319"
+"Rockbridge County, Virginia",51163,58614,"1,318"
+"Vernon County, Wisconsin",55123,58629,"1,317"
+"Franklin County, Iowa",19069,58636,"1,316"
+"Adams County, Iowa",19003,58659,"1,315"
+"Knox County, Ohio",39083,58661,"1,314"
+"Flathead County, Montana",30029,58670,"1,313"
+"Mineral County, Nevada",32021,58676,"1,312"
+"Washita County, Oklahoma",40149,58682,"1,310"
+"Westmoreland County, Virginia",51193,58682,"1,310"
+"Adair County, Iowa",19001,58738,"1,309"
+"Erie County, Pennsylvania",42049,58746,"1,308"
+"San Juan County, New Mexico",35045,58777,"1,307"
+"Lincoln County, Washington",53043,58810,"1,306"
+"Herkimer County, New York",36043,58822,"1,305"
+"Clatsop County, Oregon",41007,58825,"1,304"
+"Maury County, Tennessee",47119,58844,"1,303"
+"Jack County, Texas",48237,58854,"1,302"
+"Winnebago County, Illinois",17201,58858,"1,301"
+"Warren County, Kentucky",21227,58863,"1,300"
+"Hutchinson County, Texas",48233,58909,"1,299"
+"Knox County, Nebraska",31107,58912,"1,298"
+"Nelson County, Kentucky",21179,58946,"1,297"
+"Carson City, Nevada",32510,58947,"1,296"
+"Trimble County, Kentucky",21223,58962,"1,295"
+"Kootenai County, Idaho",16055,58966,"1,294"
+"Southampton County, Virginia",51175,58977,"1,292"
+"Wichita County, Kansas",20203,58977,"1,292"
+"Baker County, Florida",12003,58995,"1,291"
+"Pocahontas County, Iowa",19151,59009,"1,290"
+"Daviess County, Kentucky",21059,59013,"1,289"
+"Harlan County, Nebraska",31083,59038,"1,288"
+"Sherman County, Oregon",41055,59063,"1,287"
+"Jessamine County, Kentucky",21113,59065,"1,286"
+"Cumberland County, Illinois",17035,59077,"1,285"
+"Doniphan County, Kansas",20043,59079,"1,284"
+"Comanche County, Kansas",20033,59083,"1,282"
+"San Bernardino County, California",6071,59083,"1,282"
+"Davis County, Iowa",19051,59088,"1,281"
+"Scott County, Kansas",20171,59096,"1,280"
+"Howard County, Indiana",18067,59111,"1,279"
+"Oswego County, New York",36075,59137,"1,278"
+"Wakulla County, Florida",12129,59145,"1,277"
+"Chase County, Kansas",20017,59150,"1,275"
+"Emery County, Utah",49015,59150,"1,275"
+"Appomattox County, Virginia",51011,59159,"1,274"
+"Montgomery County, Illinois",17135,59167,"1,273"
+"Franklin County, Washington",53021,59169,"1,272"
+"Jefferson County, Iowa",19101,59173,"1,271"
+"Adams County, Indiana",18001,59178,"1,270"
+"Liberty County, Montana",30051,59180,"1,269"
+"Defiance County, Ohio",39039,59189,"1,268"
+"Jefferson County, Florida",12065,59196,"1,267"
+"Ste. Genevieve County, Missouri",29186,59216,"1,266"
+"Sherman County, Nebraska",31163,59222,"1,265"
+"Greene County, Iowa",19073,59242,"1,264"
+"Bland County, Virginia",51021,59258,"1,263"
+"Wright County, Iowa",19197,59263,"1,262"
+"Holt County, Nebraska",31089,59279,"1,261"
+"Tipton County, Indiana",18159,59286,"1,260"
+"Cache County, Utah",49005,59288,"1,259"
+"Beauregard Parish, Louisiana",22011,59289,"1,258"
+"Pulaski County, Arkansas",5119,59305,"1,257"
+"Van Wert County, Ohio",39161,59310,"1,256"
+"Cape Girardeau County, Missouri",29031,59337,"1,255"
+"Bexar County, Texas",48029,59348,"1,254"
+"Franklin County, Nebraska",31061,59357,"1,253"
+"Harding County, South Dakota",46063,59375,"1,252"
+"Moniteau County, Missouri",29135,59383,"1,251"
+"Clark County, Kentucky",21049,59400,"1,250"
+"Thayer County, Nebraska",31169,59412,"1,249"
+"Blount County, Tennessee",47009,59416,"1,248"
+"Bingham County, Idaho",16011,59419,"1,247"
+"Catoosa County, Georgia",13047,59426,"1,246"
+"Logan County, Ohio",39091,59429,"1,245"
+"Dickinson County, Kansas",20041,59447,"1,244"
+"Burnet County, Texas",48053,59452,"1,243"
+"Shenandoah County, Virginia",51171,59459,"1,242"
+"Douglas County, South Dakota",46043,59472,"1,241"
+"Freeborn County, Minnesota",27047,59478,"1,240"
+"McPherson County, Nebraska",31117,59479,"1,239"
+"McIntosh County, North Dakota",38051,59489,"1,237"
+"Saline County, Kansas",20169,59489,"1,237"
+"Stark County, Ohio",39151,59502,"1,236"
+"Saline County, Nebraska",31151,59503,"1,235"
+"Orange County, Texas",48361,59507,"1,234"
+"Spink County, South Dakota",46115,59508,"1,233"
+"Lenawee County, Michigan",26091,59511,"1,232"
+"Big Horn County, Wyoming",56003,59519,"1,231"
+"Susquehanna County, Pennsylvania",42115,59527,"1,230"
+"Elk County, Pennsylvania",42047,59551,"1,229"
+"Alleghany County and Clifton Forge City, Virginia",51005,59570,"1,228"
+"Duval County, Florida",12031,59580,"1,227"
+"Valley County, Nebraska",31175,59583,"1,226"
+"Marshall County, Indiana",18099,59601,"1,225"
+"Palo Alto County, Iowa",19147,59606,"1,224"
+"Tom Green County, Texas",48451,59614,"1,223"
+"Amherst County, Virginia",51009,59615,"1,222"
+"Luzerne County, Pennsylvania",42079,59622,"1,221"
+"Assumption Parish, Louisiana",22007,59656,"1,220"
+"Meade County, Kansas",20119,59659,"1,219"
+"Ward County, Texas",48475,59688,"1,218"
+"Hockley County, Texas",48219,59696,"1,217"
+"Richardson County, Nebraska",31147,59699,"1,216"
+"Tuscaloosa County, Alabama",1125,59726,"1,215"
+"Hubbard County, Minnesota",27057,59736,"1,214"
+"Johnston County, North Carolina",37101,59775,"1,213"
+"Howard County, Texas",48227,59785,"1,212"
+"Carroll County, Illinois",17015,59786,"1,210"
+"Harper County, Oklahoma",40059,59786,"1,210"
+"Hot Springs County, Wyoming",56017,59787,"1,209"
+"Niobrara County, Wyoming",56027,59821,"1,208"
+"Edgefield County, South Carolina",45037,59828,"1,207"
+"Archuleta County, Colorado",8007,59834,"1,206"
+"Clayton County, Iowa",19043,59837,"1,205"
+"Washington County, Oklahoma",40147,59841,"1,204"
+"Noble County, Indiana",18113,59843,"1,203"
+"Lewis County, New York",36049,59877,"1,202"
+"Loudon County, Tennessee",47105,59896,"1,201"
+"Mason County, Washington",53045,59898,"1,200"
+"Hamilton County, Illinois",17065,59920,"1,199"
+"Tuolumne County, California",6109,59921,"1,198"
+"Marshall County, Kansas",20117,59926,"1,197"
+"San Joaquin County, California",6077,59946,"1,196"
+"Lackawanna County, Pennsylvania",42069,59955,"1,195"
+"Ripley County, Indiana",18137,59967,"1,194"
+"Humboldt County, Iowa",19091,59972,"1,193"
+"Clark County, Nevada",32003,59993,"1,192"
+"Sherman County, Texas",48421,60000,"1,190"
+"Stafford County, Kansas",20185,60000,"1,190"
+"Dorchester County, Maryland",24019,60012,"1,189"
+"Bradford County, Pennsylvania",42015,60037,"1,188"
+"Lincoln County, Missouri",29113,60047,"1,187"
+"Bernalillo County, New Mexico",35001,60050,"1,185"
+"DeKalb County, Indiana",18033,60050,"1,185"
+"Whiteside County, Illinois",17195,60057,"1,184"
+"Franklin County, Indiana",18047,60062,"1,183"
+"Green Lake County, Wisconsin",55047,60068,"1,181"
+"Louisa County, Iowa",19115,60068,"1,181"
+"Plumas County, California",6063,60077,"1,180"
+"Winnebago County, Iowa",19189,60086,"1,179"
+"Sumter County, Florida",12119,60099,"1,178"
+"Merrick County, Nebraska",31121,60110,"1,177"
+"Charlevoix County, Michigan",26029,60113,"1,176"
+"Leon County, Texas",48289,60121,"1,175"
+"Nobles County, Minnesota",27105,60127,"1,174"
+"Ida County, Iowa",19093,60133,"1,173"
+"Boise County, Idaho",16015,60134,"1,172"
+"Davie County, North Carolina",37059,60137,"1,171"
+"Forsyth County, North Carolina",37067,60148,"1,170"
+"Victoria County, Texas",48469,60161,"1,169"
+"Rock County, Nebraska",31149,60163,"1,168"
+"Wyandot County, Ohio",39175,60167,"1,167"
+"Grant County, South Dakota",46051,60169,"1,166"
+"Ness County, Kansas",20135,60170,"1,165"
+"Holmes County, Ohio",39075,60183,"1,164"
+"Lycoming County, Pennsylvania",42081,60191,"1,163"
+"DeKalb County, Georgia",13089,60203,"1,162"
+"Cheyenne County, Kansas",20023,60217,"1,161"
+"Fall River County, South Dakota",46047,60230,"1,160"
+"Douglas County, Georgia",13097,60243,"1,159"
+"Ohio County, West Virginia",54069,60247,"1,158"
+"LaFourche Parish, Louisiana",22057,60263,"1,157"
+"Dawes County, Nebraska",31045,60267,"1,156"
+"Chase County, Nebraska",31029,60278,"1,155"
+"Caroline County, Maryland",24011,60299,"1,154"
+"Panola County, Texas",48365,60311,"1,153"
+"Berkeley County, South Carolina",45015,60312,"1,152"
+"Henry County, Iowa",19087,60335,"1,151"
+"Nez Perce County, Idaho",16069,60341,"1,150"
+"Oklahoma County, Oklahoma",40109,60346,"1,149"
+"Ochiltree County, Texas",48357,60357,"1,148"
+"Androscoggin County, Maine",23001,60363,"1,147"
+"Jefferson County, Alabama",1073,60367,"1,146"
+"Wayne County, Ohio",39169,60378,"1,145"
+"Davidson County, Tennessee",47037,60398,"1,144"
+"Brevard County, Florida",12009,60408,"1,143"
+"Carroll County, Indiana",18015,60411,"1,142"
+"Allen County, Indiana",18003,60421,"1,141"
+"Hamilton County, Iowa",19079,60427,"1,140"
+"Christian County, Missouri",29043,60435,"1,138"
+"Davison County, South Dakota",46035,60435,"1,138"
+"Robertson County, Tennessee",47147,60448,"1,137"
+"Clallam County, Washington",53009,60461,"1,136"
+"Champaign County, Ohio",39021,60462,"1,135"
+"Noble County, Oklahoma",40103,60471,"1,134"
+"Marion County, Kansas",20115,60477,"1,133"
+"Otsego County, New York",36077,60490,"1,132"
+"Marquette County, Michigan",26103,60492,"1,131"
+"Teton County, Montana",30099,60500,"1,130"
+"Watauga County, North Carolina",37189,60515,"1,129"
+"Page County, Iowa",19145,60519,"1,128"
+"Adams County, Illinois",17001,60544,"1,127"
+"Douglas County, Wisconsin",55031,60549,"1,126"
+"Cuyahoga County, Ohio",39035,60554,"1,125"
+"Carteret County, North Carolina",37031,60560,"1,124"
+"Lake County, Indiana",18089,60576,"1,123"
+"Camden County, Georgia",13039,60581,"1,122"
+"Limestone County, Alabama",1083,60588,"1,121"
+"Beaver County, Utah",49001,60613,"1,120"
+"Lake County, Minnesota",27075,60634,"1,119"
+"Tipton County, Tennessee",47167,60639,"1,118"
+"Hamilton County, New York",36041,60650,"1,117"
+"Gibson County, Indiana",18051,60675,"1,116"
+"Mesa County, Colorado",8077,60676,"1,115"
+"Grant County, Oklahoma",40053,60682,"1,113"
+"Stanton County, Nebraska",31167,60682,"1,113"
+"Hampton City, Virginia",51650,60693,"1,112"
+"Nelson County, Virginia",51125,60699,"1,111"
+"Franklin County, Missouri",29071,60722,"1,110"
+"Pointe Coupee Parish, Louisiana",22077,60729,"1,109"
+"Mitchell County, Texas",48335,60733,"1,108"
+"Hutchinson County, South Dakota",46067,60734,"1,107"
+"Madison County, Montana",30057,60739,"1,105"
+"Northwest Arctic Borough, Alaska",2188,60739,"1,105"
+"Macon County, Illinois",17115,60745,"1,104"
+"Knox County, Maine",23013,60749,"1,103"
+"Alfalfa County, Oklahoma",40003,60767,"1,102"
+"Lincoln County, North Carolina",37109,60810,"1,101"
+"Rock County, Wisconsin",55105,60820,"1,100"
+"Kennebec County, Maine",23011,60866,"1,099"
+"Bennington County, Vermont",50003,60869,"1,098"
+"Redwood County, Minnesota",27127,60872,"1,097"
+"Grayson County, Texas",48181,60873,"1,096"
+"Kiowa County, Kansas",20097,60900,"1,095"
+"Dewey County, Oklahoma",40043,60901,"1,094"
+"Scott County, Illinois",17171,60905,"1,093"
+"Yamhill County, Oregon",41071,60909,"1,092"
+"Mariposa County, California",6043,60921,"1,091"
+"Wayne County, Pennsylvania",42127,60924,"1,090"
+"Bon Homme County, South Dakota",46009,60947,"1,089"
+"Colfax County, Nebraska",31037,60956,"1,088"
+"Ford County, Illinois",17053,60965,"1,087"
+"Guthrie County, Iowa",19077,61006,"1,086"
+"Walton County, Georgia",13297,61012,"1,085"
+"Hancock County, Maine",23009,61014,"1,084"
+"St. Clair County, Alabama",1115,61031,"1,083"
+"Pinellas County, Florida",12103,61036,"1,082"
+"Llano County, Texas",48299,61069,"1,081"
+"Jackson County, Missouri",29095,61076,"1,080"
+"Coconino County, Arizona",4005,61083,"1,079"
+"Staunton City, Virginia",51790,61097,"1,078"
+"Hardin County, Kentucky",21093,61110,"1,076"
+"Union County, Pennsylvania",42119,61110,"1,076"
+"Washington County, Texas",48477,61118,"1,075"
+"Oneida County, Wisconsin",55085,61125,"1,074"
+"Kosciusko County, Indiana",18085,61127,"1,073"
+"Pendleton County, Kentucky",21191,61133,"1,072"
+"Winkler County, Texas",48495,61140,"1,071"
+"Lee County, Alabama",1081,61141,"1,070"
+"Manatee County, Florida",12081,61149,"1,069"
+"Schuyler County, New York",36097,61155,"1,068"
+"Big Stone County, Minnesota",27011,61168,"1,067"
+"Howard County, Iowa",19089,61172,"1,066"
+"Audubon County, Iowa",19009,61224,"1,065"
+"Johnson County, Missouri",29101,61236,"1,063"
+"St. James Parish, Louisiana",22093,61236,"1,063"
+"Pike County, Georgia",13231,61243,"1,062"
+"Ellsworth County, Kansas",20053,61250,"1,061"
+"Hillsborough County, Florida",12057,61262,"1,060"
+"Worth County, Iowa",19195,61265,"1,059"
+"Hawaii County, Hawaii",15001,61268,"1,058"
+"Crow Wing County, Minnesota",27035,61279,"1,057"
+"Coke County, Texas",48081,61315,"1,056"
+"Cherry County, Nebraska",31031,61321,"1,055"
+"Brazos County, Texas",48041,61324,"1,054"
+"Grant County, Wisconsin",55043,61343,"1,053"
+"Washington County, New York",36115,61344,"1,052"
+"Plaquemines Parish, Louisiana",22075,61345,"1,051"
+"Burleson County, Texas",48051,61360,"1,050"
+"Pepin County, Wisconsin",55091,61361,"1,049"
+"Putnam County, Indiana",18133,61371,"1,048"
+"White County, Indiana",18181,61394,"1,047"
+"Kearny County, Kansas",20093,61403,"1,046"
+"Polk County, Wisconsin",55095,61404,"1,044"
+"Swift County, Minnesota",27151,61404,"1,044"
+"Randolph County, Illinois",17157,61410,"1,043"
+"Franklin County, Kansas",20059,61437,"1,042"
+"Chelan County, Washington",53007,61464,"1,041"
+"Chickasaw County, Iowa",19037,61472,"1,039"
+"Grady County, Oklahoma",40051,61472,"1,039"
+"Clay County, Nebraska",31035,61510,"1,037"
+"Meade County, South Dakota",46093,61510,"1,037"
+"Millard County, Utah",49027,61538,"1,036"
+"Pawnee County, Kansas",20145,61540,"1,035"
+"Cooke County, Texas",48097,61547,"1,034"
+"Campbell County, South Dakota",46021,61563,"1,032"
+"Stark County, Illinois",17175,61563,"1,032"
+"Gaines County, Texas",48165,61581,"1,031"
+"Yates County, New York",36123,61588,"1,030"
+"Dixon County, Nebraska",31051,61591,"1,028"
+"Madison County, Nebraska",31119,61591,"1,028"
+"Carbon County, Utah",49007,61600,"1,027"
+"Buffalo County, Wisconsin",55011,61607,"1,026"
+"Macoupin County, Illinois",17117,61629,"1,025"
+"Northumberland County, Virginia",51133,61633,"1,024"
+"Calhoun County, South Carolina",45017,61640,"1,023"
+"Marshall County, Iowa",19127,61662,"1,022"
+"Banner County, Nebraska",31007,61667,"1,021"
+"Jefferson Parish, Louisiana",22051,61691,"1,020"
+"Erie County, Ohio",39043,61704,"1,019"
+"Rockingham County, Virginia",51165,61718,"1,018"
+"Grant County, Minnesota",27051,61726,"1,017"
+"Clay County, South Dakota",46027,61737,"1,016"
+"Allegan County, Michigan",26005,61753,"1,015"
+"Watonwan County, Minnesota",27165,61773,"1,014"
+"Roger Mills County, Oklahoma",40129,61774,"1,013"
+"Lonoke County, Arkansas",5085,61788,"1,012"
+"Broward County, Florida",12011,61809,"1,010"
+"Tulsa County, Oklahoma",40143,61809,"1,010"
+"Jones County, Georgia",13169,61813,"1,009"
+"Wyoming County, Pennsylvania",42131,61832,"1,008"
+"Franklin County, Kentucky",21073,61840,"1,007"
+"Oneida County, New York",36065,61842,"1,006"
+"Morrow County, Ohio",39117,61843,"1,005"
+"Burt County, Nebraska",31021,61846,"1,004"
+"St. Clair County, Michigan",26147,61848,"1,003"
+"Lapeer County, Michigan",26087,61849,"1,002"
+"Beaver County, Oklahoma",40007,61875,"1,000"
+"Grant County, North Dakota",38037,61875,"1,000"
+"Kearney County, Nebraska",31099,61880,999
+"Hamilton County, Tennessee",47065,61887,998
+"Fayette County, Texas",48149,61892,997
+"Rock Island County, Illinois",17161,61895,996
+"Walsh County, North Dakota",38099,61907,995
+"Augusta County, Virginia",51015,61913,994
+"Kent County, Texas",48263,61932,993
+"Wayne County, New York",36117,61933,992
+"Norman County, Minnesota",27107,61941,991
+"Osage County, Kansas",20139,61972,990
+"Lincoln County, Wisconsin",55069,61974,989
+"Walworth County, South Dakota",46129,62000,988
+"Deschutes County, Oregon",41017,62013,987
+"Nassau County, Florida",12089,62014,986
+"Morgan County, Illinois",17137,62023,985
+"Beadle County, South Dakota",46005,62024,984
+"Box Elder County, Utah",49003,62043,983
+"Perry County, Missouri",29157,62049,982
+"Suffolk County, Massachusetts",25025,62050,981
+"Park County, Montana",30067,62067,980
+"Coffee County, Alabama",1031,62075,979
+"Norton County, Kansas",20137,62105,978
+"Jefferson County, Washington",53031,62118,977
+"Moody County, South Dakota",46101,62125,976
+"Clay County, Texas",48077,62201,975
+"Harris County, Texas",48201,62210,974
+"Sullivan County, New York",36105,62222,973
+"Lincoln County, Maine",23015,62227,972
+"Monroe County, Wisconsin",55081,62244,971
+"Ohio County, Indiana",18115,62246,970
+"Carter County, Montana",30011,62250,969
+"Gage County, Nebraska",31067,62251,968
+"Wabash County, Illinois",17185,62257,967
+"Baldwin County, Alabama",1003,62271,966
+"Lincoln County, Kansas",20105,62273,965
+"Jackson County, Georgia",13157,62285,964
+"Walla Walla County, Washington",53071,62309,963
+"Calhoun County, Texas",48057,62319,962
+"Chaffee County, Colorado",8015,62336,961
+"Hampden County, Massachusetts",25013,62350,960
+"Fredericksburg City, Virginia",51630,62361,959
+"Martin County, Minnesota",27091,62397,958
+"Lake of the Woods County, Minnesota",27077,62411,957
+"Lafayette County, Mississippi",28071,62416,956
+"Hudson County, New Jersey",34017,62436,954
+"Morrison County, Minnesota",27097,62436,954
+"Lincoln County, Nebraska",31111,62439,953
+"Monterey County, California",6053,62441,952
+"Carroll County, New Hampshire",33003,62468,951
+"Hamlin County, South Dakota",46057,62478,950
+"Carbon County, Montana",30009,62500,947
+"Cuming County, Nebraska",31039,62500,947
+"Sheridan County, Kansas",20179,62500,947
+"Broome County, New York",36007,62558,946
+"Barber County, Kansas",20007,62583,945
+"Lamar County, Mississippi",28073,62615,944
+"Yellow Medicine County, Minnesota",27173,62639,943
+"Pratt County, Kansas",20151,62641,942
+"Clay County, Kansas",20027,62665,941
+"Ingham County, Michigan",26065,62674,940
+"Los Angeles County, California",6037,62703,939
+"Uinta County, Wyoming",56041,62720,938
+"Cheatham County, Tennessee",47021,62737,937
+"Fillmore County, Nebraska",31059,62741,936
+"Miami County, Ohio",39109,62745,935
+"Loup County, Nebraska",31115,62750,934
+"Middlesex County, Virginia",51119,62819,933
+"Lafayette County, Wisconsin",55065,62833,932
+"Houston County, Georgia",13153,62835,931
+"Rock County, Minnesota",27133,62885,930
+"Salem City, Virginia",51775,62903,929
+"Rice County, Kansas",20159,62904,928
+"Custer County, South Dakota",46033,62909,927
+"Jerauld County, South Dakota",46073,62917,926
+"Warren County, Indiana",18171,62931,925
+"Jefferson County, Kentucky",21111,62932,924
+"Sanborn County, South Dakota",46111,62935,923
+"Edwards County, Texas",48137,62969,922
+"Beaverhead County, Montana",30001,62974,921
+"Rutland County, Vermont",50021,62989,920
+"Black Hawk County, Iowa",19013,63011,919
+"McDonough County, Illinois",17109,63068,918
+"Becker County, Minnesota",27005,63070,917
+"Ray County, Missouri",29177,63074,916
+"Bureau County, Illinois",17011,63101,915
+"Providence County, Rhode Island",44007,63103,914
+"Pickens County, Georgia",13227,63106,913
+"Iredell County, North Carolina",37097,63109,912
+"Baylor County, Texas",48023,63125,910
+"Cheyenne County, Colorado",8017,63125,910
+"Grant County, Kansas",20067,63141,909
+"Harrison County, Indiana",18061,63206,908
+"Wicomico County, Maryland",24045,63231,907
+"Moore County, North Carolina",37125,63254,906
+"Stevens County, Kansas",20189,63255,905
+"Wells County, North Dakota",38103,63267,904
+"Berkeley County, West Virginia",54003,63304,903
+"Bond County, Illinois",17005,63306,902
+"Sussex County, Delaware",10005,63311,901
+"Yankton County, South Dakota",46135,63314,900
+"Greenville County, South Carolina",45045,63319,899
+"Jersey County, Illinois",17083,63342,898
+"Oconto County, Wisconsin",55083,63356,897
+"Tama County, Iowa",19171,63379,896
+"Charles City County, Virginia",51036,63384,895
+"Hettinger County, North Dakota",38041,63393,893
+"Kidder County, North Dakota",38043,63393,893
+"Spokane County, Washington",53063,63402,892
+"Cerro Gordo County, Iowa",19033,63408,891
+"Tippecanoe County, Indiana",18157,63409,890
+"Dunn County, Wisconsin",55033,63450,889
+"Wood County, Wisconsin",55141,63461,888
+"Wells County, Indiana",18179,63470,887
+"Lee County, Texas",48287,63482,886
+"Waupaca County, Wisconsin",55135,63490,885
+"Traverse County, Minnesota",27155,63500,884
+"Kane County, Utah",49025,63532,883
+"Renville County, Minnesota",27129,63562,882
+"Boone County, Nebraska",31011,63569,881
+"Dare County, North Carolina",37055,63586,880
+"Butler County, Nebraska",31023,63592,879
+"Warren County, Missouri",29219,63607,878
+"Kalamazoo County, Michigan",26077,63609,877
+"Jasper County, Indiana",18073,63610,876
+"Manitowoc County, Wisconsin",55071,63645,875
+"Colonial Heights City, Virginia",51570,63657,874
+"Butler County, Iowa",19023,63710,873
+"Monroe County, Indiana",18105,63712,872
+"Kankakee County, Illinois",17091,63716,871
+"Riverside County, California",6065,63737,870
+"East Baton Rouge Parish, Louisiana",22033,63744,869
+"Lake County, Colorado",8065,63750,866
+"Sac County, Iowa",19161,63750,866
+"Sweet Grass County, Montana",30097,63750,866
+"Whitley County, Indiana",18183,63755,865
+"Major County, Oklahoma",40093,63770,864
+"Sedgwick County, Kansas",20173,63779,863
+"Marshall County, South Dakota",46091,63792,862
+"Roseau County, Minnesota",27135,63811,861
+"La Salle County, Illinois",17099,63812,860
+"Goliad County, Texas",48175,63814,859
+"Crockett County, Texas",48105,63827,858
+"Custer County, Montana",30017,63841,857
+"Logan County, Nebraska",31113,63864,856
+"Aleutians East Borough, Alaska",2013,63913,855
+"Pierce County, North Dakota",38069,63915,854
+"Lea County, New Mexico",35025,63943,853
+"Cayuga County, New York",36011,63969,852
+"Seneca County, New York",36099,63975,851
+"Richland County, South Carolina",45079,63994,850
+"Shelby County, Indiana",18145,64000,849
+"Waller County, Texas",48473,64004,848
+"Bandera County, Texas",48019,64008,847
+"Whitman County, Washington",53075,64016,846
+"Polk County, Oregon",41053,64035,845
+"Greene County, New York",36039,64058,844
+"Mitchell County, Iowa",19131,64078,843
+"Latah County, Idaho",16057,64079,842
+"Muscatine County, Iowa",19139,64083,841
+"Emmet County, Iowa",19063,64085,840
+"Wyoming County, New York",36121,64100,839
+"Wagoner County, Oklahoma",40145,64107,838
+"Cook County, Minnesota",27031,64120,837
+"Ellis County, Kansas",20051,64131,836
+"Osceola County, Iowa",19143,64133,835
+"Haskell County, Kansas",20081,64141,834
+"Bullitt County, Kentucky",21029,64153,832
+"Clark County, Indiana",18019,64153,832
+"St. Clair County, Illinois",17163,64168,831
+"Chippewa County, Minnesota",27023,64179,830
+"Morgan County, Indiana",18109,64188,829
+"Columbia County, Oregon",41009,64189,828
+"Hardin County, Texas",48199,64192,827
+"Beckham County, Oklahoma",40009,64199,826
+"Logan County, Illinois",17107,64246,825
+"Kent County, Delaware",10001,64252,824
+"Henry County, Ohio",39069,64253,823
+"Daniels County, Montana",30019,64286,822
+"Mower County, Minnesota",27099,64330,821
+"Benton County, Minnesota",27009,64343,820
+"Lancaster County, Virginia",51103,64345,819
+"Johnson County, Wyoming",56019,64351,818
+"Clinton County, New York",36019,64371,817
+"Chippewa County, Wisconsin",55017,64388,816
+"Windham County, Vermont",50025,64394,815
+"Hancock County, Iowa",19081,64403,814
+"Lincoln County, Minnesota",27081,64429,813
+"Box Butte County, Nebraska",31013,64447,812
+"Sarasota County, Florida",12115,64449,811
+"Ector County, Texas",48135,64450,810
+"Queens County, New York",36081,64475,809
+"Gosper County, Nebraska",31073,64479,808
+"Lafayette County, Missouri",29107,64480,807
+"Genesee County, New York",36037,64483,806
+"Turner County, South Dakota",46125,64484,805
+"Emmet County, Michigan",26047,64487,803
+"Lassen County, California",6035,64487,803
+"Trego County, Kansas",20195,64500,802
+"Trempealeau County, Wisconsin",55121,64510,801
+"Pennington County, South Dakota",46103,64523,800
+"Franklin County, Pennsylvania",42055,64527,799
+"Lorain County, Ohio",39093,64543,798
+"Teton County, Idaho",16081,64545,797
+"Logan County, Kansas",20109,64561,796
+"Clay County, Iowa",19041,64563,795
+"Surry County, Virginia",51181,64575,794
+"Faulkner County, Arkansas",5045,64583,793
+"Ottawa County, Ohio",39123,64597,792
+"Nelson County, North Dakota",38063,64598,791
+"DeWitt County, Texas",48123,64602,790
+"Jefferson County, Missouri",29099,64639,789
+"Mercer County, Illinois",17131,64649,788
+"Jackson County, Minnesota",27063,64663,787
+"Sauk County, Wisconsin",55111,64671,786
+"Schoharie County, New York",36095,64673,785
+"Fremont County, Wyoming",56013,64694,784
+"Barry County, Michigan",26015,64724,783
+"Santa Fe County, New Mexico",35049,64734,782
+"Lac qui Parle County, Minnesota",27073,64738,781
+"Maricopa County, Arizona",4013,64751,780
+"Houston County, Minnesota",27055,64754,779
+"Clinton County, Missouri",29049,64760,778
+"Benton County, Arkansas",5007,64767,777
+"Shelby County, Iowa",19165,64782,776
+"Douglas County, Illinois",17041,64795,775
+"Knox County, Tennessee",47093,64798,774
+"Lamoille County, Vermont",50015,64810,773
+"Jackson County, Kansas",20085,64820,772
+"Door County, Wisconsin",55029,64832,771
+"Eddy County, North Dakota",38027,64833,770
+"Otoe County, Nebraska",31131,64838,769
+"Osage County, Missouri",29151,64847,768
+"Shawnee County, Kansas",20177,64869,767
+"Riley County, Kansas",20161,64906,766
+"St. Louis County, Minnesota",27137,64913,765
+"Sumner County, Kansas",20191,64934,764
+"Dorchester County, South Carolina",45035,64936,763
+"Kingman County, Kansas",20095,64967,762
+"Kossuth County, Iowa",19109,64974,761
+"Marshall County, Illinois",17123,64984,760
+"Pennington County, Minnesota",27113,64985,759
+"Fulton County, Ohio",39051,64991,758
+"Eddy County, New Mexico",35015,64996,757
+"Cortland County, New York",36023,65019,756
+"Weber County, Utah",49057,65065,755
+"Alachua County, Florida",12001,65088,754
+"Wabaunsee County, Kansas",20197,65091,753
+"Fremont County, Iowa",19071,65109,752
+"Chemung County, New York",36015,65135,751
+"Harrison County, Iowa",19085,65147,750
+"Mitchell County, Kansas",20123,65188,749
+"Wise County, Texas",48497,65196,748
+"Dawson County, Montana",30021,65208,747
+"Lee County, Illinois",17103,65213,746
+"Summit County, Ohio",39153,65215,745
+"Sacramento County, California",6067,65239,744
+"Hood River County, Oregon",41027,65250,743
+"Orange County, Vermont",50017,65270,742
+"Skagit County, Washington",53057,65272,741
+"Sterling County, Texas",48431,65273,740
+"Niagara County, New York",36063,65275,739
+"Cherokee County, Iowa",19035,65276,738
+"Pottawattamie County, Iowa",19155,65286,737
+"Kent County, Michigan",26081,65290,736
+"Pecos County, Texas",48371,65335,735
+"Otter Tail County, Minnesota",27111,65365,734
+"Harvey County, Kansas",20079,65378,732
+"Kandiyohi County, Minnesota",27067,65378,732
+"Autauga County, Alabama",1001,65397,731
+"Beaver County, Pennsylvania",42007,65401,730
+"Lane County, Kansas",20101,65417,728
+"Mineral County, Colorado",8079,65417,728
+"Saline County, Arkansas",5125,65438,727
+"Clinton County, Iowa",19045,65441,726
+"Kittitas County, Washington",53037,65462,725
+"Missoula County, Montana",30063,65463,724
+"Elmore County, Alabama",1051,65560,723
+"Calhoun County, Illinois",17013,65573,722
+"Johnson County, Texas",48251,65585,721
+"Brookings County, South Dakota",46011,65591,720
+"Crawford County, Illinois",17033,65613,719
+"Kingsbury County, South Dakota",46077,65614,718
+"Perry County, Pennsylvania",42099,65621,717
+"Gunnison County, Colorado",8051,65625,716
+"Pierce County, Nebraska",31139,65643,715
+"Kingfisher County, Oklahoma",40073,65650,714
+"Jo Daviess County, Illinois",17085,65659,713
+"Lebanon County, Pennsylvania",42075,65676,712
+"Hand County, South Dakota",46059,65694,711
+"Washoe County, Nevada",32031,65698,710
+"Hancock County, Ohio",39063,65725,709
+"Cole County, Missouri",29051,65776,708
+"York County, Nebraska",31185,65785,707
+"Peoria County, Illinois",17143,65788,706
+"Howard County, Nebraska",31093,65795,705
+"Red Lake County, Minnesota",27125,65893,704
+"Anderson County, Kentucky",21005,65895,703
+"Essex County, New York",36031,65902,702
+"Palm Beach County, Florida",12099,65914,701
+"Spencer County, Indiana",18147,65924,700
+"Perkins County, Nebraska",31135,65972,699
+"Dawson County, Georgia",13085,66024,698
+"Clark County, South Dakota",46025,66027,697
+"Yoakum County, Texas",48501,66034,696
+"Okaloosa County, Florida",12091,66043,695
+"Lawrence County, South Dakota",46081,66067,694
+"Fayette County, Tennessee",47047,66097,693
+"Marathon County, Wisconsin",55073,66112,692
+"Washakie County, Wyoming",56043,66113,691
+"Effingham County, Illinois",17049,66123,690
+"LaMoure County, North Dakota",38045,66140,689
+"Gray County, Kansas",20069,66154,687
+"Phelps County, Nebraska",31137,66154,687
+"Franklin County, Ohio",39049,66155,686
+"Santa Rosa County, Florida",12113,66156,685
+"Amelia County, Virginia",51007,66157,684
+"Jones County, Iowa",19105,66158,683
+"Marshall County, Minnesota",27089,66184,682
+"Carlton County, Minnesota",27017,66187,681
+"Cabarrus County, North Carolina",37025,66188,680
+"Ottawa County, Kansas",20143,66215,679
+"Henry County, Georgia",13151,66229,678
+"Henry County, Illinois",17073,66255,677
+"Gwinnett County, Georgia",13135,66259,676
+"Collier County, Florida",12021,66264,675
+"York County, South Carolina",45091,66273,674
+"Wilkin County, Minnesota",27167,66304,673
+"Kenton County, Kentucky",21117,66313,672
+"Oldham County, Texas",48359,66364,671
+"Skamania County, Washington",53059,66374,670
+"Codington County, South Dakota",46029,66402,669
+"Hemphill County, Texas",48211,66406,668
+"Bartholomew County, Indiana",18005,66425,667
+"Bastrop County, Texas",48021,66426,666
+"Livingston County, Illinois",17105,66464,665
+"Dubois County, Indiana",18037,66479,664
+"Fillmore County, Minnesota",27045,66508,663
+"Garden County, Nebraska",31069,66509,662
+"Grand Traverse County, Michigan",26055,66519,661
+"Atlantic County, New Jersey",34001,66523,660
+"Fallon County, Montana",30025,66528,659
+"Hamilton County, Ohio",39061,66531,658
+"Dickey County, North Dakota",38021,66563,657
+"Sheboygan County, Wisconsin",55117,66599,656
+"Berkshire County, Massachusetts",25003,66604,655
+"Adams County, Colorado",8001,66619,654
+"Lexington County, South Carolina",45063,66634,653
+"Hood County, Texas",48221,66646,652
+"Medina County, Texas",48325,66652,650
+"Poweshiek County, Iowa",19157,66652,650
+"Lyon County, Iowa",19119,66685,649
+"Beaufort County, South Carolina",45013,66688,648
+"Jasper County, Illinois",17079,66706,647
+"Portage County, Wisconsin",55097,66709,646
+"Washington County, Illinois",17189,66715,645
+"O'Brien County, Iowa",19141,66729,644
+"Brown County, Minnesota",27015,66734,643
+"New Hanover County, North Carolina",37129,66764,642
+"Dodge County, Wisconsin",55027,66765,641
+"Monroe County, Pennsylvania",42089,66783,640
+"San Juan County, Washington",53055,66786,639
+"Lee County, Georgia",13177,66834,638
+"Boone County, Illinois",17007,66852,637
+"DeSoto County, Mississippi",28033,66854,636
+"Sibley County, Minnesota",27143,66870,635
+"Hardin County, Iowa",19083,66875,634
+"Clay County, Florida",12019,66919,633
+"Winneshiek County, Iowa",19191,66933,632
+"Westmoreland County, Pennsylvania",42129,66945,631
+"Pope County, Minnesota",27121,66962,630
+"Adams County, Nebraska",31001,66994,629
+"West Baton Rouge Parish, Louisiana",22121,67004,628
+"Bossier Parish, Louisiana",22015,67021,627
+"Hinsdale County, Colorado",8053,67031,626
+"Caribou County, Idaho",16029,67054,625
+"Ramsey County, North Dakota",38071,67083,624
+"Eaton County, Michigan",26045,67088,623
+"Murray County, Minnesota",27101,67090,622
+"Moffat County, Colorado",8081,67107,621
+"Madison County, New York",36053,67122,619
+"Park County, Wyoming",56029,67122,619
+"Midland County, Michigan",26111,67138,618
+"Schleicher County, Texas",48413,67148,617
+"Sagadahoc County, Maine",23023,67173,616
+"Alpine County, California",6003,67188,615
+"Washington County, Maryland",24043,67201,614
+"Auglaize County, Ohio",39011,67207,613
+"Sandoval County, New Mexico",35043,67224,612
+"Cedar County, Nebraska",31027,67250,611
+"Kittson County, Minnesota",27069,67269,610
+"Cook County, Illinois",17031,67324,609
+"Pickaway County, Ohio",39129,67326,608
+"Gillespie County, Texas",48171,67335,607
+"Ellis County, Oklahoma",40045,67337,606
+"Putnam County, West Virginia",54079,67353,605
+"Albany County, Wyoming",56001,67355,604
+"King William County, Virginia",51101,67395,603
+"Shelby County, Ohio",39149,67398,602
+"Sumner County, Tennessee",47165,67414,601
+"Inyo County, California",6027,67420,599
+"Platte County, Nebraska",31141,67420,599
+"Carroll County, Iowa",19027,67436,598
+"Logan County, North Dakota",38047,67452,597
+"Madison County, Ohio",39097,67467,595
+"Yellowstone County, Montana",30111,67467,595
+"Fond du Lac County, Wisconsin",55039,67472,594
+"Winnebago County, Wisconsin",55139,67477,593
+"Utah County, Utah",49049,67496,592
+"Rutherford County, Tennessee",47149,67516,591
+"Stanley County, South Dakota",46117,67518,590
+"Meeker County, Minnesota",27093,67520,589
+"Brown County, Indiana",18013,67527,588
+"Livingston County, New York",36051,67532,587
+"Montour County, Pennsylvania",42093,67549,586
+"Logan County, Oklahoma",40083,67562,585
+"McHenry County, North Dakota",38049,67574,584
+"Duchesne County, Utah",49013,67598,583
+"Erie County, New York",36029,67607,582
+"Paulding County, Georgia",13223,67622,581
+"Caroline County, Virginia",51033,67646,580
+"Louisa County, Virginia",51109,67647,579
+"Nemaha County, Kansas",20131,67649,577
+"Scurry County, Texas",48415,67649,577
+"Mercer County, Ohio",39107,67659,576
+"Craig County, Virginia",51045,67679,575
+"Portage County, Ohio",39133,67681,574
+"Berks County, Pennsylvania",42011,67696,573
+"Jackson County, Texas",48239,67729,572
+"De Witt County, Illinois",17039,67748,571
+"Dauphin County, Pennsylvania",42043,67756,569
+"Rosebud County, Montana",30087,67756,569
+"Adams County, North Dakota",38001,67772,568
+"Rogers County, Oklahoma",40131,67773,567
+"Macomb County, Michigan",26099,67785,566
+"Kenosha County, Wisconsin",55059,67795,565
+"Monroe County, Michigan",26115,67811,564
+"Hamilton County, Nebraska",31081,67813,562
+"Thomas County, Nebraska",31171,67813,562
+"Rankin County, Mississippi",28121,67837,561
+"Madison County, Illinois",17119,67860,560
+"Livingston Parish, Louisiana",22063,67870,559
+"Garfield County, Colorado",8045,67871,558
+"Durham County, North Carolina",37063,67880,557
+"Sullivan County, New Hampshire",33019,67911,556
+"Douglas County, Nevada",32005,67919,555
+"Douglas County, Minnesota",27041,67922,554
+"Brown County, Illinois",17009,67944,553
+"Pembina County, North Dakota",38067,67962,552
+"McLeod County, Minnesota",27085,67991,551
+"Crook County, Wyoming",56011,68012,550
+"Dubuque County, Iowa",19061,68157,549
+"Coffey County, Kansas",20031,68160,548
+"White Pine County, Nevada",32033,68182,547
+"Storey County, Nevada",32029,68203,546
+"Cedar County, Iowa",19031,68212,545
+"Leelanau County, Michigan",26089,68290,544
+"Fayette County, Kentucky",21067,68302,543
+"Ransom County, North Dakota",38073,68368,542
+"Whatcom County, Washington",53073,68376,541
+"Warren County, New York",36113,68409,540
+"Wabasha County, Minnesota",27157,68412,539
+"Brown County, Wisconsin",55009,68425,538
+"Thomas County, Kansas",20193,68432,537
+"Eau Claire County, Wisconsin",55035,68478,536
+"Ogle County, Illinois",17141,68485,535
+"Worcester County, Maryland",24047,68558,534
+"Chatham County, North Carolina",37037,68564,533
+"Kaufman County, Texas",48257,68572,532
+"Lehigh County, Pennsylvania",42077,68605,531
+"Essex County, New Jersey",34013,68611,530
+"Calaveras County, California",6009,68632,529
+"Tioga County, New York",36107,68659,528
+"Woodward County, Oklahoma",40153,68673,527
+"Blanco County, Texas",48031,68683,526
+"Austin County, Texas",48015,68684,525
+"Brown County, South Dakota",46013,68685,523
+"Jasper County, Iowa",19099,68685,523
+"Multnomah County, Oregon",41051,68707,522
+"Seminole County, Florida",12117,68725,521
+"Racine County, Wisconsin",55101,68728,520
+"Haines Borough, Alaska",2100,68750,519
+"Jefferson County, Kansas",20087,68832,518
+"Stillwater County, Montana",30095,68833,517
+"Martin County, Florida",12085,68847,516
+"Bedford City and County, Virginia",51917,68850,515
+"McCook County, South Dakota",46087,68871,514
+"Green County, Wisconsin",55045,68878,513
+"Steele County, North Dakota",38091,68917,512
+"Lancaster County, Pennsylvania",42071,68937,511
+"Monongalia County, West Virginia",54061,68981,510
+"Montgomery County, Virginia",51121,69086,509
+"Sheridan County, Montana",30091,69122,508
+"Crane County, Texas",48103,69153,507
+"Bryan County, Georgia",13029,69177,506
+"McClain County, Oklahoma",40087,69182,505
+"Nevada County, California",6057,69203,504
+"Hartley County, Texas",48205,69226,503
+"Park County, Colorado",8093,69234,502
+"Boone County, Iowa",19015,69260,501
+"Tooele County, Utah",49045,69299,500
+"Minnehaha County, South Dakota",46099,69310,499
+"McPherson County, Kansas",20113,69352,498
+"La Crosse County, Wisconsin",55063,69353,497
+"Monroe County, New York",36055,69363,496
+"Licking County, Ohio",39089,69470,495
+"Reagan County, Texas",48383,69492,494
+"Winona County, Minnesota",27169,69507,493
+"Marion County, Iowa",19125,69510,492
+"Deuel County, South Dakota",46039,69554,491
+"Golden Valley County, North Dakota",38033,69643,490
+"Lafayette Parish, Louisiana",22055,69671,489
+"Charleston County, South Carolina",45019,69774,488
+"Denver County, Colorado",8031,69783,487
+"Ada County, Idaho",16001,69792,485
+"Buchanan County, Iowa",19019,69792,485
+"Amador County, California",6005,69812,484
+"Iowa County, Wisconsin",55049,69813,483
+"St. Charles Parish, Louisiana",22089,69833,482
+"York County, Pennsylvania",42133,69846,481
+"Pike County, Pennsylvania",42103,69860,480
+"Walworth County, Wisconsin",55127,69889,479
+"Tarrant County, Texas",48439,69896,478
+"Floyd County, Indiana",18043,69923,477
+"Wilson County, Tennessee",47189,69926,476
+"Grundy County, Iowa",19075,69940,475
+"Washington County, Iowa",19183,70000,474
+"Lancaster County, Nebraska",31109,70015,473
+"Jefferson County, Wisconsin",55055,70017,472
+"Andrew County, Missouri",29003,70039,471
+"Kewaunee County, Wisconsin",55061,70048,470
+"Franklin County, Massachusetts",25011,70054,469
+"Waseca County, Minnesota",27161,70071,468
+"Charlottesville City, Virginia",51540,70079,467
+"Grand Forks County, North Dakota",38035,70132,466
+"Leon County, Florida",12073,70136,465
+"Pottawatomie County, Kansas",20149,70169,464
+"Cleveland County, Oklahoma",40027,70191,463
+"DeKalb County, Illinois",17037,70256,462
+"Griggs County, North Dakota",38039,70288,461
+"Hanson County, South Dakota",46061,70333,460
+"Adams County, Pennsylvania",42001,70344,459
+"Ottawa County, Michigan",26139,70378,458
+"Dearborn County, Indiana",18029,70401,457
+"Stearns County, Minnesota",27145,70409,456
+"Delaware County, Iowa",19055,70412,455
+"Campbell County, Kentucky",21037,70416,454
+"Monroe County, Florida",12087,70453,453
+"Weld County, Colorado",8123,70457,452
+"Champaign County, Illinois",17019,70498,451
+"Camden County, North Carolina",37029,70532,450
+"McLean County, North Dakota",38055,70580,449
+"Passaic County, New Jersey",34031,70591,448
+"Benton County, Washington",53005,70592,447
+"Foster County, North Dakota",38031,70625,446
+"Carbon County, Wyoming",56007,70641,445
+"Effingham County, Georgia",13103,70658,444
+"Windsor County, Vermont",50027,70666,443
+"Lewis and Clark County, Montana",30049,70708,442
+"Botetourt County, Virginia",51023,70741,441
+"Kent County, Maryland",24029,70760,440
+"Mecklenburg County, North Carolina",37119,70774,439
+"Clark County, Washington",53011,70859,438
+"Sioux County, Iowa",19167,70971,437
+"Sheridan County, Wyoming",56033,71020,436
+"Isanti County, Minnesota",27059,71114,435
+"Wood County, Ohio",39173,71122,434
+"Slope County, North Dakota",38087,71146,433
+"Lyon County, Minnesota",27083,71173,432
+"El Paso County, Colorado",8041,71174,431
+"Franklin County, Vermont",50011,71289,430
+"Douglas County, Nebraska",31055,71291,429
+"Pierce County, Washington",53053,71304,428
+"Dickinson County, Iowa",19059,71327,427
+"Butler County, Ohio",39017,71328,426
+"Shelby County, Kentucky",21211,71349,425
+"Cheshire County, New Hampshire",33005,71354,424
+"Buffalo County, Nebraska",31019,71377,423
+"Cheyenne County, Nebraska",31033,71406,420
+"Natrona County, Wyoming",56025,71406,420
+"Stevens County, Minnesota",27149,71406,420
+"Archer County, Texas",48009,71455,419
+"Ontario County, New York",36069,71483,418
+"Blue Earth County, Minnesota",27013,71533,417
+"Onondaga County, New York",36067,71545,416
+"York County, Maine",23031,71560,415
+"Grafton County, New Hampshire",33009,71587,414
+"Prince George County, Virginia",51149,71620,413
+"Ellis County, Texas",48139,71647,412
+"Iowa County, Iowa",19095,71674,411
+"Island County, Washington",53029,71690,410
+"Cass County, Missouri",29037,71696,409
+"Polk County, Nebraska",31143,71745,408
+"Putnam County, Ohio",39137,71752,407
+"Barnes County, North Dakota",38003,71818,406
+"Greene County, Virginia",51079,71851,405
+"Madison County, Iowa",19121,71899,404
+"Addison County, Vermont",50001,71925,403
+"Towner County, North Dakota",38095,71985,402
+"Tazewell County, Illinois",17179,72000,401
+"Plymouth County, Iowa",19149,72047,400
+"Salt Lake County, Utah",49035,72049,399
+"Grand County, Colorado",8049,72057,398
+"Columbia County, Wisconsin",55021,72059,397
+"Belknap County, New Hampshire",33001,72089,396
+"Polk County, Minnesota",27119,72114,395
+"Coweta County, Georgia",13077,72129,394
+"Washington County, Pennsylvania",42125,72149,393
+"Orange County, Virginia",51137,72153,392
+"Columbia County, New York",36021,72171,391
+"Posey County, Indiana",18129,72180,390
+"Scott County, Iowa",19163,72195,389
+"Hodgeman County, Kansas",20083,72250,388
+"Spencer County, Kentucky",21215,72351,387
+"Windham County, Connecticut",9015,72358,386
+"Lake County, South Dakota",46079,72370,385
+"Nicollet County, Minnesota",27103,72372,384
+"Guadalupe County, Texas",48187,72384,383
+"Bottineau County, North Dakota",38009,72413,382
+"Fairfield County, Ohio",39045,72434,381
+"Lake County, Ohio",39085,72462,380
+"Cameron Parish, Louisiana",22023,72500,379
+"Hyde County, South Dakota",46069,72563,378
+"Stutsman County, North Dakota",38093,72576,377
+"Le Sueur County, Minnesota",27079,72581,376
+"Wayne County, Nebraska",31179,72595,375
+"Irion County, Texas",48235,72650,374
+"Boone County, Missouri",29019,72667,373
+"Gallatin County, Montana",30031,72672,372
+"Currituck County, North Carolina",37053,72680,371
+"Outagamie County, Wisconsin",55087,72685,370
+"Warren County, Virginia",51187,72738,369
+"Douglas County, Kansas",20045,72755,368
+"Allegheny County, Pennsylvania",42003,72765,367
+"Butler County, Kansas",20015,72774,366
+"Canadian County, Oklahoma",40017,72790,365
+"Sierra County, California",6091,72893,364
+"Rice County, Minnesota",27131,72900,363
+"Richland County, Montana",30083,72927,362
+"Sargent County, North Dakota",38081,72930,361
+"Faulk County, South Dakota",46049,72974,360
+"Humboldt County, Nevada",32013,73002,359
+"San Miguel County, Colorado",8113,73032,358
+"Nemaha County, Nebraska",31127,73060,357
+"Sangamon County, Illinois",17167,73074,356
+"Clermont County, Ohio",39025,73093,355
+"Saunders County, Nebraska",31155,73107,354
+"Steele County, Minnesota",27147,73135,353
+"Jefferson County, Montana",30043,73146,352
+"Scott County, Kentucky",21209,73192,351
+"Blaine County, Idaho",16013,73206,350
+"Seward County, Nebraska",31159,73216,349
+"Warrick County, Indiana",18173,73280,348
+"Johnson County, Indiana",18081,73326,347
+"Edmunds County, South Dakota",46045,73385,346
+"Talbot County, Maryland",24041,73410,345
+"Mono County, California",6051,73556,344
+"Northampton County, Pennsylvania",42095,73571,343
+"Richland County, North Dakota",38077,73574,342
+"Uintah County, Utah",49047,73582,341
+"Grand Isle County, Vermont",50013,73598,339
+"Ramsey County, Minnesota",27123,73598,339
+"Southeast Fairbanks Census Area, Alaska",2240,73611,338
+"Fluvanna County, Virginia",51065,73667,337
+"Clay County, Minnesota",27027,73706,336
+"Goodhue County, Minnesota",27049,73722,335
+"Daggett County, Utah",49009,73750,334
+"Washington County, Vermont",50023,73765,333
+"Bristol County, Massachusetts",25005,73775,332
+"St. Tammany Parish, Louisiana",22103,73790,331
+"Putnam County, Illinois",17155,73807,330
+"Converse County, Wyoming",56009,73944,329
+"Centre County, Pennsylvania",42027,74118,328
+"Polk County, Iowa",19153,74335,327
+"Kalawao County, Hawaii",15005,74375,326
+"Woods County, Oklahoma",40151,74399,325
+"Thurston County, Washington",53067,74420,324
+"Cape May County, New Jersey",34009,74509,323
+"La Plata County, Colorado",8067,74518,322
+"Tompkins County, New York",36109,74524,321
+"Lincoln County, Wyoming",56023,74528,320
+"Ulster County, New York",36111,74546,319
+"Roanoke County, Virginia",51161,74547,318
+"Yolo County, California",6113,74561,317
+"Union County, North Carolina",37179,74578,316
+"Rappahannock County, Virginia",51157,74600,315
+"King County, Texas",48269,74688,314
+"Miami County, Kansas",20121,74751,313
+"Rio Blanco County, Colorado",8103,74762,312
+"Santa Barbara County, California",6083,74824,311
+"Ward County, North Dakota",38101,74826,310
+"Williamsburg City, Virginia",51830,74858,309
+"Wallace County, Kansas",20199,74938,308
+"Clinton County, Michigan",26037,75033,307
+"Clay County, Missouri",29047,75104,306
+"Gloucester County, Virginia",51073,75121,305
+"San Diego County, California",6073,75179,304
+"Ouray County, Colorado",8091,75250,303
+"Cass County, North Dakota",38017,75531,302
+"Madison County, Alabama",1089,75551,301
+"Oliver County, North Dakota",38065,75579,300
+"Kitsap County, Washington",53035,75652,299
+"Lipscomb County, Texas",48295,75667,298
+"San Benito County, California",6069,75690,297
+"Gilpin County, Colorado",8047,75694,296
+"Armstrong County, Texas",48011,75714,295
+"Suffolk City, Virginia",51800,75719,294
+"Laramie County, Wyoming",56021,75732,293
+"Carson County, Texas",48065,75735,292
+"Benton County, Iowa",19011,75776,291
+"Randall County, Texas",48381,75972,290
+"Wasatch County, Utah",49051,76021,289
+"Roberts County, Texas",48393,76029,288
+"Woodford County, Kentucky",21239,76054,287
+"Calumet County, Wisconsin",55015,76115,286
+"Maui County, Hawaii",15009,76195,285
+"Divide County, North Dakota",38023,76250,284
+"Strafford County, New Hampshire",33017,76368,283
+"Schenectady County, New York",36093,76417,282
+"Arapahoe County, Colorado",8005,76437,281
+"Traill County, North Dakota",38097,76444,280
+"Porter County, Indiana",18127,76486,279
+"Piatt County, Illinois",17147,76509,278
+"West Feliciana Parish, Louisiana",22125,76538,277
+"Teller County, Colorado",8119,76540,276
+"Salem County, New Jersey",34033,76572,275
+"Leavenworth County, Kansas",20103,76579,274
+"Warren County, Iowa",19181,76605,273
+"Kauai County, Hawaii",15007,76707,272
+"Rensselaer County, New York",36083,76726,271
+"San Luis Obispo County, California",6079,76771,270
+"Hays County, Texas",48209,76838,269
+"Larimer County, Colorado",8069,76886,268
+"Ocean County, New Jersey",34029,76934,267
+"Benton County, Oregon",41003,76967,266
+"Linn County, Iowa",19113,77036,265
+"Solano County, California",6095,77061,264
+"Woodford County, Illinois",17203,77186,263
+"St. Louis County, Missouri",29189,77399,262
+"Martin County, Texas",48317,77411,261
+"Fulton County, Georgia",13121,77460,260
+"Story County, Iowa",19169,77539,259
+"Sonoma County, California",6097,77587,258
+"Menard County, Illinois",17129,77588,257
+"Virginia Beach City, Virginia",51810,77614,256
+"Travis County, Texas",48453,77688,255
+"Galveston County, Texas",48167,77702,254
+"Henrico County, Virginia",51087,77722,253
+"Cass County, Nebraska",31025,77731,252
+"Cumberland County, Pennsylvania",42041,77749,251
+"Sully County, South Dakota",46119,77826,250
+"Mountrail County, North Dakota",38061,77833,249
+"Butler County, Pennsylvania",42019,77864,248
+"Pierce County, Wisconsin",55093,77871,247
+"Hancock County, Indiana",18059,77887,246
+"Wilson County, Texas",48493,77921,245
+"Culpeper County, Virginia",51047,78018,244
+"Cumberland County, Maine",23005,78038,243
+"Camden County, New Jersey",34007,78164,242
+"Manassas Park City, Virginia",51685,78177,241
+"Borden County, Texas",48033,78214,240
+"Manassas City, Virginia",51683,78304,239
+"Comal County, Texas",48091,78308,238
+"Loving County, Texas",48301,78333,237
+"Madison County, Mississippi",28089,78349,236
+"Davis County, Utah",49011,78367,235
+"Lander County, Nevada",32015,78456,234
+"Yakutat City and Borough, Alaska",2282,78500,233
+"Bremer County, Iowa",19017,78551,232
+"Mills County, Iowa",19129,78556,231
+"Greene County, Ohio",39057,78588,230
+"Dodge County, Minnesota",27039,78642,229
+"Boone County, Kentucky",21015,78649,228
+"Kenai Peninsula Borough, Alaska",2122,78668,227
+"Frederick County, Virginia",51069,78706,226
+"Cobb County, Georgia",13067,78831,225
+"Morton County, North Dakota",38059,78837,224
+"Washington County, Oregon",41067,78866,223
+"Isle of Wight County, Virginia",51093,78876,222
+"North Slope Borough, Alaska",2185,78906,221
+"Chesapeake City, Virginia",51550,78923,220
+"Clinton County, Illinois",17027,78929,219
+"Columbia County, Georgia",13073,78999,218
+"Elko County, Nevada",32007,79040,217
+"Clackamas County, Oregon",41005,79079,216
+"Medina County, Ohio",39103,79147,215
+"Union County, Ohio",39159,79191,214
+"Ascension Parish, Louisiana",22005,79246,213
+"Mathews County, Virginia",51115,79702,212
+"Jefferson County, West Virginia",54037,79830,211
+"Weston County, Wyoming",56045,80000,210
+"Cherokee County, Georgia",13057,80067,209
+"Kodiak Island Borough, Alaska",2150,80104,208
+"Cecil County, Maryland",24015,80146,207
+"Grundy County, Illinois",17063,80183,206
+"Chisago County, Minnesota",27025,80376,205
+"Sweetwater County, Wyoming",56037,80723,204
+"New Haven County, Connecticut",9009,80739,203
+"Barnstable County, Massachusetts",25001,80751,202
+"Napa County, California",6055,80921,201
+"Boone County, Indiana",18011,81000,200
+"Parker County, Texas",48367,81039,199
+"Montgomery County, Texas",48339,81166,198
+"New Castle County, Delaware",10003,81298,197
+"Union County, South Dakota",46127,81520,196
+"Sarpy County, Nebraska",31153,81643,195
+"Kane County, Illinois",17089,81718,194
+"Brazoria County, Texas",48039,81727,193
+"Cavalier County, North Dakota",38019,81780,192
+"Andrews County, Texas",48003,81889,191
+"Santa Cruz County, California",6087,81912,190
+"Merrimack County, New Hampshire",33013,81950,189
+"Harris County, Georgia",13145,82172,188
+"Renville County, North Dakota",38075,82206,187
+"Routt County, Colorado",8107,82264,186
+"Fairbanks North Star, Alaska",2090,82310,185
+"Baltimore County, Maryland",24005,82329,184
+"New London County, Connecticut",9011,82349,183
+"Midland County, Texas",48329,82446,182
+"Eagle County, Colorado",8037,82465,181
+"Hendricks County, Indiana",18063,82554,180
+"Worcester County, Massachusetts",25027,82733,179
+"Snohomish County, Washington",53061,82807,178
+"Delaware County, Pennsylvania",42045,82906,177
+"Glasscock County, Texas",48173,82917,176
+"Ketchikan Gateway Borough, Alaska",2130,82964,175
+"Wright County, Minnesota",27171,82991,174
+"Monroe County, Illinois",17133,82994,173
+"McLean County, Illinois",17113,83034,172
+"Albany County, New York",36001,83085,171
+"St. Croix County, Wisconsin",55109,83192,170
+"Washington County, Nebraska",31177,83216,169
+"Washington County, Wisconsin",55131,83226,168
+"Johnson County, Iowa",19103,83245,167
+"Sherburne County, Minnesota",27141,83267,166
+"Union County, New Jersey",34039,83430,165
+"Oconee County, Georgia",13219,83510,164
+"Hampshire County, Massachusetts",25015,83530,163
+"Burke County, North Dakota",38013,83594,162
+"Anoka County, Minnesota",27003,83676,161
+"Matanuska-Susitna Borough, Alaska",2170,83776,160
+"Dunn County, North Dakota",38025,83850,159
+"St. Johns County, Florida",12109,83871,158
+"Hartford County, Connecticut",9003,83946,157
+"Kent County, Rhode Island",44003,84017,156
+"Chambers County, Texas",48071,84206,155
+"Platte County, Missouri",29165,84309,154
+"Shelby County, Alabama",1117,84311,153
+"Wake County, North Carolina",37183,84442,152
+"Bowman County, North Dakota",38011,84500,151
+"Dane County, Wisconsin",55025,84619,150
+"Hughes County, South Dakota",46065,84683,149
+"Williamson County, Texas",48491,84838,148
+"Mercer County, North Dakota",38057,84898,147
+"Burleigh County, North Dakota",38015,85066,146
+"Chesterfield County, Virginia",51041,85142,145
+"Orange County, New York",36071,85312,144
+District of Columbia,11001,85321,143
+"Lincoln County, South Dakota",46083,85365,142
+"Prince Georges County, Maryland",24033,85445,141
+"Warren County, New Jersey",34041,85568,140
+"Livingston County, Michigan",26093,85692,139
+"Richmond County, New York",36085,85788,138
+"New Kent County, Virginia",51127,85798,137
+"St. Charles County, Missouri",29183,85806,136
+"Geauga County, Ohio",39055,85884,135
+"Hillsborough County, New Hampshire",33011,85966,134
+"Summit County, Colorado",8117,85981,133
+"Orange County, California",6059,86003,132
+"Olmsted County, Minnesota",27109,86116,131
+"Honolulu County, Hawaii",15003,86366,130
+"Clear Creek County, Colorado",8019,86563,129
+"Jefferson County, Colorado",8059,86565,128
+"Ventura County, California",6111,86766,127
+"Essex County, Massachusetts",25009,86793,126
+"Stark County, North Dakota",38089,86799,125
+"Orange County, North Carolina",37135,86910,124
+"El Dorado County, California",6017,86967,123
+"Sitka Borough, Alaska",2220,86996,122
+"Sublette County, Wyoming",56035,87182,121
+"Oakland County, Michigan",26125,87216,120
+"Hennepin County, Minnesota",27053,87230,119
+"Powhatan County, Virginia",51145,87233,118
+"Washtenaw County, Michigan",26161,87331,117
+"Chittenden County, Vermont",50007,87437,116
+"Saratoga County, New York",36091,87551,115
+"Spotsylvania County, Virginia",51177,87569,114
+"Campbell County, Wyoming",56005,87858,113
+"Will County, Illinois",17197,87950,112
+"Dukes County, Massachusetts",25007,87986,111
+"Kendall County, Texas",48259,88609,110
+"Warren County, Ohio",39165,88824,109
+"New York County, New York",36061,89291,108
+"Albemarle County, Virginia",51003,89456,107
+"Dutchess County, New York",36027,89486,106
+"Aleutians West Census Area, Alaska",2016,89500,105
+"Placer County, California",6061,89611,104
+"Litchfield County, Connecticut",9005,89735,103
+"McHenry County, Illinois",17111,89768,102
+"Bristol Bay Borough, Alaska",2060,90000,100
+"Morgan County, Utah",49029,90000,100
+"Valdez-Cordova Census Area, Alaska",2261,90139,99
+"King George County, Virginia",51099,90363,98
+"Clarke County, Virginia",51043,90862,97
+"James City County, Virginia",51095,90901,96
+"Fayette County, Georgia",13113,91077,95
+"Newport County, Rhode Island",44005,91137,94
+"Denton County, Texas",48121,91186,93
+"Dakota County, Minnesota",27037,91222,92
+"McKenzie County, North Dakota",38053,91292,91
+"Gloucester County, New Jersey",34015,91552,90
+"Kendall County, Illinois",17093,91612,89
+"Anchorage Borough, Alaska",2020,91622,88
+"Hanover County, Virginia",51085,91663,87
+"Plymouth County, Massachusetts",25023,91720,86
+"Washington County, Rhode Island",44009,91770,85
+"Goochland County, Virginia",51075,91806,84
+"Alameda County, California",6001,92328,83
+"Dallas County, Iowa",19049,92428,82
+"Harford County, Maryland",24025,93217,81
+"Teton County, Wyoming",56039,93443,80
+"Ozaukee County, Wisconsin",55089,93461,79
+"Lake County, Illinois",17097,93668,78
+"Middlesex County, New Jersey",34023,93800,77
+"Williams County, North Dakota",38105,93834,76
+"York County, Virginia",51199,94141,75
+"Billings County, North Dakota",38007,94583,74
+"Waukesha County, Wisconsin",55133,94831,73
+"Johnson County, Kansas",20091,94850,72
+"Burlington County, New Jersey",34005,94884,71
+"Mercer County, New Jersey",34021,94908,70
+"Bucks County, Pennsylvania",42017,94953,69
+"Eureka County, Nevada",32011,95000,68
+"Bristol County, Rhode Island",44001,95291,67
+"Contra Costa County, California",6013,95824,66
+"Rockwall County, Texas",48397,96065,65
+"Rockingham County, New Hampshire",33015,96200,64
+"San Francisco County, California",6075,96336,63
+"Oldham County, Kentucky",21185,96364,62
+"Elbert County, Colorado",8039,96535,61
+"DuPage County, Illinois",17043,96751,60
+"King County, Washington",53033,96853,59
+"Boulder County, Colorado",8013,96926,58
+"Washington County, Minnesota",27163,97550,57
+"Denali, Alaska",2068,97679,56
+"Poquoson City, Virginia",51735,97684,55
+"Broomfield County, Colorado",8014,97886,54
+"Tolland County, Connecticut",9013,98025,53
+"Frederick County, Maryland",24021,98064,52
+"St. Marys County, Maryland",24037,98260,51
+"Rockland County, New York",36087,98801,50
+"Fort Bend County, Texas",48157,99214,49
+"Juneau Borough, Alaska",2110,99526,48
+"Scott County, Minnesota",27139,100000,47
+"Montgomery County, Pennsylvania",42091,100138,46
+"Sussex County, New Jersey",34037,100186,45
+"Queen Annes County, Maryland",24035,100577,44
+"Collin County, Texas",48085,100839,43
+"Forsyth County, Georgia",13117,101155,42
+"Carroll County, Maryland",24013,101208,41
+"Summit County, Utah",49043,101659,40
+"Carver County, Minnesota",27019,101963,39
+"Middlesex County, Connecticut",9007,101995,38
+"Pitkin County, Colorado",8097,102399,37
+"Charles County, Maryland",24017,102498,36
+"Suffolk County, New York",36103,102582,35
+"Anne Arundel County, Maryland",24003,102606,34
+"Hamilton County, Indiana",18057,103322,33
+"Bergen County, New Jersey",34003,104286,32
+"Chester County, Pennsylvania",42029,105571,31
+"Fairfield County, Connecticut",9001,105628,30
+"Fauquier County, Virginia",51061,106597,29
+"Delaware County, Ohio",39041,106782,28
+"Monmouth County, New Jersey",34025,106925,27
+"Stafford County, Virginia",51179,107143,26
+"Prince William County, Virginia",51153,107304,25
+"Middlesex County, Massachusetts",25017,107772,24
+"Westchester County, New York",36119,108108,23
+"Santa Clara County, California",6085,108637,22
+"Williamson County, Tennessee",47187,108990,21
+"Nantucket County, Massachusetts",25019,108996,20
+"Alexandria City, Virginia",51510,109075,19
+"Calvert County, Maryland",24009,109288,18
+"San Mateo County, California",6081,109722,17
+"Putnam County, New York",36079,111425,16
+"Norfolk County, Massachusetts",25021,112605,15
+"Nassau County, New York",36059,114662,14
+"Douglas County, Colorado",8035,115309,13
+"Montgomery County, Maryland",24031,117798,12
+"Somerset County, New Jersey",34035,119158,11
+"Morris County, New Jersey",34027,120114,10
+"Marin County, California",6041,121130,9
+"Los Alamos County, New Mexico",35028,123646,8
+"Fairfax City, Virginia",51600,124547,7
+"Hunterdon County, New Jersey",34019,125993,6
+"Howard County, Maryland",24027,128504,5
+"Fairfax County, Virginia",51059,129805,4
+"Loudoun County, Virginia",51107,137534,3
+"Arlington County, Virginia",51013,140838,2
+"Falls Church City, Virginia",51610,165430,1
+"Prince of Wales-Outer Ketchikan, Alaska",2201,data not available,N/A
+"Skagway Hoonah Angoon Census Area, Alaska",2232,data not available,N/A
+"Wrangell-Petersburg Census Area, Alaska",2280,data not available,N/A

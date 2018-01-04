@@ -1,0 +1,68 @@
+---
+title: "MLiC_HW3"
+author: "Ali Yesilkanal"
+date: "December 1, 2017"
+output: html_document
+---
+
+``` {r setup, include=FALSE}
+library(caret)
+library(dplyr)
+library(ggplot2)
+load("/media/rosner-lab/ubuntu_hdd1/Ali_MLinC_HWs/Ali_ML_HW3/MLiC - HW3/MLiC_HW3_environment.R.RData")
+```
+
+##### **GOAL:** To build a model that predicts incidence rate of melanoma for each county
+
+I first started with the two given features to build my model - (1) Average household income described as "Value(Dollars)", and (2) Amount of sunlight per county described as "Avg Daily Sunlight (KJ/m²)". It should be noted that the Ave Daily Sunlight parameter is an aggregate of all the data collected in a particular county over the years. Outcome data for this training set is the "Age-Adjusted Incidence Rate" data associated with each county. 
+
+To create the feature matrix for model training, I used the "FIPS" county code to merge the data frames containing the outcome parameter as well as the two features described above. Approximately one third of the counties did not have melanoma incidence rate information, which appears as an "NA" value in the "Age-Adjusted Incidence Rate" outcome column. For simplicity, I removed all the data that had NA values before training my model, which left me with a 2044 x 2 feature matrix.
+
+``` {r echo=FALSE}
+new_feat_mat[1:8,1:4]
+```
+
+I used three methods for training my model: (1) random forest (ranger), (2) linear model, (3) generalized linear model. For each model, I incorporated 5-fold cross-validation step and trained the models as regression. The following is the comparison of the r2 values for all three models. These initial models did not fit the data well based on the two features we provided.
+
+``` {r echo=FALSE}
+summary(resamples(list(ranger = ranger1.1, lm = lm1.1, glm = glm1.1)))
+```
+
+In order to increase the r2 values, I wanted to add more features to the training matrix. The extra credit portion of the assignment suggested that we include the incedence data from the neighboring counties. For this, I first downloaded the neighboring county information from the US Census Bureau's website: https://www.census.gov/geo/reference/county-adjacency.html . County adjacency data look like the following:
+
+``` {r echo=FALSE}
+county_adjacency[1:20,]
+```
+
+I merged the adjacency data frame with the incidence rates from the melanomav08 data and created 3 new features for each county FIPS: (1) mean incidence rate of the neighboring counties ("neighbor_ave_incedence"), (2) minimum incedence rate in the neighbors ("neighbor_min_incedence"), and (3) maximum incedence rate in the neighbors ("neighbor_max_incedence"). 
+
+Since melanoma is biologically related to UV exposure, I also wanted to see if county-based UV exposure data would be a better predictor than the average daily sunlight data. I downloaded county UV exposure data from https://gis.cancer.gov/tools/uv-exposure/ and merged it with my training matrix. I also created 3 more features based on UV-exposure of the neighboring counties, the same way I generated the neighboring county incidence rates: 1) mean UV exposure of the neighboring counties ("neighbor_ave_uv"), (2) minimum uv exposure in the neighbors ("neighbor_min_uv"), and (3) maximum uv exposure in the neighbors ("neighbor_max_uv"). 
+
+After removing rows that have NA values, my final feature matrix had 1833 counties (rows) and 9 features (columns). 
+
+``` {r}
+head(new_feat_mat)
+dim(new_feat_mat)
+```
+
+I trained my three models on this new data frame and the fitness of all three models increased drastically (r2 from ~0.10 to ~0.60):
+
+``` {r echo=FALSE}
+summary(resamples(list(ranger = ranger2.1, lm = lm2.1, glm = glm2.1)))
+```
+
+Interestingly, linear models (lm and glm) performed better than the random forest model with this training matrix.
+
+Among all 9 of the features I used to train my models, the most important feature was the average incidence rate of melanoma in the neighboring counties ("neighbor_ave_incidence"). Even though melanoma is related to UV exposure in most cases, neither average daily sunlight nor the UV exposure related features were predictive of melanoma risk.
+
+``` {r echo=FALSE}
+vars <- ranger2.1$finalModel$variable.importance
+par(mar=c(12,5,2,5))
+a <- barplot(sort(vars, decreasing = TRUE), las=1, names.arg="", ylab = "Variable importance", cex.axis = 0.8)
+text(a[,1], -10, srt = 45, adj= 1.1, xpd = TRUE, labels = names(sort(vars, decreasing = TRUE)) , cex=0.8)
+```
+
+
+
+
+
